@@ -1,0 +1,2 @@
+Sun May 18 2025 21:0:14 [SERVER-NAME] error: 10.0.60.147 - GET /api/v1/admin/retailer/managment/undefined 400 - 6.903 ms
+Sun May 18 2025 21:0:19 [SERVER-NAME] error: 10.0.60.147 - GET /api/v1/admin/retailer/managment/undefined 400 - 3.096 ms

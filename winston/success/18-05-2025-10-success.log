@@ -1,0 +1,98 @@
+Sun May 18 2025 10:2:58 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/sales/dashboard/my-retailer/details/order/undefined 204 - 0.052 ms
+Sun May 18 2025 10:4:56 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/admin/dashboard/analysis 204 - 0.215 ms
+Sun May 18 2025 10:4:56 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/admin/dashboard/revenue 204 - 0.116 ms
+Sun May 18 2025 10:4:56 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/admin/dashboard/orders? 204 - 0.125 ms
+Sun May 18 2025 10:4:56 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/admin/dashboard/top-sales 204 - 0.114 ms
+Sun May 18 2025 10:4:56 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/admin/dashboard/orders?page=1&limit=7 204 - 0.210 ms
+Sun May 18 2025 10:4:59 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/admin/orders/managment/analysis 204 - 0.039 ms
+Sun May 18 2025 10:4:59 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/admin/orders/managment? 204 - 0.029 ms
+Sun May 18 2025 10:4:59 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/admin/orders/managment/top-sales 204 - 0.055 ms
+Sun May 18 2025 10:4:59 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/admin/orders/managment/top-retailer 204 - 0.042 ms
+Sun May 18 2025 10:4:59 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/admin/orders/managment?page=1&limit=5 204 - 0.058 ms
+Sun May 18 2025 10:5:12 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/auth/login 204 - 0.064 ms
+Sun May 18 2025 10:5:12 [SERVER-NAME] info: 10.0.60.147 - POST /api/v1/auth/login 200 - 252.896 ms
+Sun May 18 2025 10:5:12 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/admin/dashboard/revenue 204 - 0.067 ms
+Sun May 18 2025 10:5:12 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/admin/dashboard/orders? 204 - 0.054 ms
+Sun May 18 2025 10:5:12 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/admin/dashboard/top-sales 204 - 0.046 ms
+Sun May 18 2025 10:5:12 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/admin/dashboard/analysis 204 - 0.044 ms
+Sun May 18 2025 10:5:12 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/admin/dashboard/revenue 200 - 16.439 ms
+Sun May 18 2025 10:5:12 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/admin/dashboard/orders?page=1&limit=7 204 - 0.057 ms
+Sun May 18 2025 10:5:12 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/admin/dashboard/top-sales 200 - 27.743 ms
+Sun May 18 2025 10:5:12 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/admin/dashboard/analysis 200 - 29.702 ms
+Sun May 18 2025 10:5:12 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/admin/dashboard/orders? 200 - 39.040 ms
+Sun May 18 2025 10:5:12 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/admin/dashboard/orders?page=1&limit=7 200 - 21.060 ms
+Sun May 18 2025 10:5:25 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/admin/orders/managment/top-retailer 204 - 0.064 ms
+Sun May 18 2025 10:5:25 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/admin/orders/managment/top-sales 204 - 0.047 ms
+Sun May 18 2025 10:5:25 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/admin/orders/managment? 204 - 0.046 ms
+Sun May 18 2025 10:5:25 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/admin/orders/managment/analysis 204 - 0.042 ms
+Sun May 18 2025 10:5:25 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/admin/orders/managment/top-retailer 200 - 7.503 ms
+Sun May 18 2025 10:5:25 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/admin/orders/managment/top-sales 200 - 12.097 ms
+Sun May 18 2025 10:5:25 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/admin/orders/managment/analysis 200 - 11.993 ms
+Sun May 18 2025 10:5:25 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/admin/orders/managment?page=1&limit=5 204 - 0.058 ms
+Sun May 18 2025 10:5:25 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/admin/orders/managment? 200 - 21.375 ms
+Sun May 18 2025 10:5:25 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/admin/orders/managment?page=1&limit=5 200 - 12.497 ms
+Sun May 18 2025 10:5:28 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/admin/retailer/managment/undefined 204 - 0.067 ms
+Sun May 18 2025 10:5:28 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/admin/repmanagement? 204 - 0.046 ms
+Sun May 18 2025 10:5:28 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/admin/retailer/managment? 204 - 0.045 ms
+Sun May 18 2025 10:5:28 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/admin/retailer/managment?page=1&limit=10 204 - 0.058 ms
+Sun May 18 2025 10:5:28 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/admin/repmanagement? 304 - 34.116 ms
+Sun May 18 2025 10:5:28 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/admin/retailer/managment? 200 - 41.974 ms
+Sun May 18 2025 10:5:28 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/admin/retailer/managment?page=1&limit=10 200 - 37.824 ms
+Sun May 18 2025 10:5:29 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/admin/inventory/analysis 204 - 0.053 ms
+Sun May 18 2025 10:5:29 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/admin/inventory? 204 - 0.029 ms
+Sun May 18 2025 10:5:29 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/admin/inventory? 304 - 8.788 ms
+Sun May 18 2025 10:5:29 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/admin/inventory/analysis 304 - 10.815 ms
+Sun May 18 2025 10:5:29 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/admin/inventory?page=1&limit=10 204 - 0.066 ms
+Sun May 18 2025 10:5:29 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/admin/inventory?page=1&limit=10 304 - 6.069 ms
+Sun May 18 2025 10:5:30 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/admin/repmanagement/unaproved 204 - 0.073 ms
+Sun May 18 2025 10:5:30 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/admin/repmanagement/unaproved 304 - 6.672 ms
+Sun May 18 2025 10:5:35 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/admin/repmanagement/details/analysis/68257ea3061d025b1583dfc8 204 - 0.142 ms
+Sun May 18 2025 10:5:35 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/admin/repmanagement/details/retailer/68257ea3061d025b1583dfc8?page=1&limit=5 204 - 0.108 ms
+Sun May 18 2025 10:5:35 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/admin/repmanagement/details/commission/68257ea3061d025b1583dfc8?page=1&limit=5 204 - 0.079 ms
+Sun May 18 2025 10:5:35 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/admin/repmanagement/details/analysis/68257ea3061d025b1583dfc8 200 - 28.187 ms
+Sun May 18 2025 10:5:35 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/admin/repmanagement/details/commission/68257ea3061d025b1583dfc8?page=1&limit=5 200 - 21.336 ms
+Sun May 18 2025 10:5:35 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/admin/repmanagement/details/retailer/68257ea3061d025b1583dfc8?page=1&limit=5 200 - 27.372 ms
+Sun May 18 2025 10:5:37 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/admin/repmanagement/details/retailer/single/68286a206fd04732b32e1641 204 - 0.071 ms
+Sun May 18 2025 10:5:37 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/admin/repmanagement/details/retailer/single/68286a206fd04732b32e1641 200 - 6.963 ms
+Sun May 18 2025 10:5:58 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/admin/retailer/managment/undefined 204 - 0.062 ms
+Sun May 18 2025 10:6:1 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/admin/retailer/managment/68286a206fd04732b32e1641 204 - 0.059 ms
+Sun May 18 2025 10:6:1 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/admin/retailer/managment/68286a206fd04732b32e1641 200 - 5.310 ms
+Sun May 18 2025 10:6:12 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/admin/orders/managment/68284b99bc8527af892e25c9 204 - 0.056 ms
+Sun May 18 2025 10:6:12 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/admin/orders/managment/68284b99bc8527af892e25c9 200 - 9.383 ms
+Sun May 18 2025 10:6:12 [SERVER-NAME] info: 10.0.60.147 - GET //image/rectangle-(9)-1747130013591.png 304 - 0.670 ms
+Sun May 18 2025 10:6:12 [SERVER-NAME] info: 10.0.60.147 - GET //image/image5-1747130064419.png 200 - 8.337 ms
+Sun May 18 2025 10:7:38 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/sales/dashboard/my-retailers 204 - 0.060 ms
+Sun May 18 2025 10:7:38 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/sales/dashboard/my-retailers 200 - 7.260 ms
+Sun May 18 2025 10:7:40 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/sales/dashboard/my-retailer/details/order/undefined 204 - 0.066 ms
+Sun May 18 2025 10:7:41 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/sales/dashboard/my-retailer/details/order/68284b99bc8527af892e25c9 204 - 0.060 ms
+Sun May 18 2025 10:7:41 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/sales/dashboard/my-retailer/details/order/68284b99bc8527af892e25c9 304 - 9.522 ms
+Sun May 18 2025 10:18:23 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/sales/dashboard/my-retailer/details/order/681c7cda2e303e522317f675 204 - 0.068 ms
+Sun May 18 2025 10:18:23 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/sales/dashboard/my-retailer/details/order/681c7cda2e303e522317f675 200 - 8.761 ms
+Sun May 18 2025 10:19:0 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/sales/dashboard/my-retailer/6824393996449b103e53c06d 204 - 0.072 ms
+Sun May 18 2025 10:19:0 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/sales/dashboard/my-retailer/6824393996449b103e53c06d 304 - 3.637 ms
+Sun May 18 2025 10:19:0 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/sales/dashboard/my-retailer/details/6824393996449b103e53c06d 204 - 0.040 ms
+Sun May 18 2025 10:19:0 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/sales/dashboard/my-retailer/details/orders/6824393996449b103e53c06d 204 - 0.032 ms
+Sun May 18 2025 10:19:0 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/sales/dashboard/my-retailer/details/order/undefined 204 - 0.026 ms
+Sun May 18 2025 10:19:0 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/sales/dashboard/my-retailer/details/analysis/6824393996449b103e53c06d 204 - 0.024 ms
+Sun May 18 2025 10:19:0 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/sales/dashboard/my-retailer/details/6824393996449b103e53c06d 304 - 10.240 ms
+Sun May 18 2025 10:19:0 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/sales/dashboard/my-retailer/details/analysis/6824393996449b103e53c06d 304 - 10.348 ms
+Sun May 18 2025 10:19:0 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/sales/dashboard/my-retailer/details/orders/6824393996449b103e53c06d 304 - 17.309 ms
+Sun May 18 2025 10:19:3 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/sales/dashboard/my-retailer/details/order/68284b99bc8527af892e25c9 204 - 0.078 ms
+Sun May 18 2025 10:19:3 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/sales/dashboard/my-retailer/details/order/68284b99bc8527af892e25c9 304 - 9.017 ms
+Sun May 18 2025 10:31:35 [SERVER-NAME] info: 10.0.60.126 - GET /api/v1/sales/commission 200 - 7.954 ms
+Sun May 18 2025 10:33:35 [SERVER-NAME] info: [32mConfig validation successful.[39m
+Sun May 18 2025 10:33:35 [SERVER-NAME] info: [32m🚀 Database connected successfully[39m
+Sun May 18 2025 10:33:35 [SERVER-NAME] info: [33m♻️  Socket is listening on 10.0.60.126:6004[39m
+Sun May 18 2025 10:33:35 [SERVER-NAME] info: [33m♻️  Application listening on http://10.0.60.126:7001[39m
+Sun May 18 2025 10:33:39 [SERVER-NAME] info: [32mConfig validation successful.[39m
+Sun May 18 2025 10:33:39 [SERVER-NAME] info: [32m🚀 Database connected successfully[39m
+Sun May 18 2025 10:33:39 [SERVER-NAME] info: [33m♻️  Socket is listening on 10.0.60.126:6004[39m
+Sun May 18 2025 10:33:39 [SERVER-NAME] info: [33m♻️  Application listening on http://10.0.60.126:7001[39m
+Sun May 18 2025 10:33:49 [SERVER-NAME] info: [32mConfig validation successful.[39m
+Sun May 18 2025 10:33:49 [SERVER-NAME] info: [32m🚀 Database connected successfully[39m
+Sun May 18 2025 10:33:49 [SERVER-NAME] info: [33m♻️  Socket is listening on 10.0.60.126:6004[39m
+Sun May 18 2025 10:33:49 [SERVER-NAME] info: [33m♻️  Application listening on http://10.0.60.126:7001[39m
+Sun May 18 2025 10:39:57 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/sales/dashboard/my-retailer/details/order/undefined 204 - 1.196 ms
+Sun May 18 2025 10:40:43 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/sales/dashboard/my-retailer/details/order/undefined 204 - 0.162 ms
+Sun May 18 2025 10:40:51 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/sales/dashboard/my-retailer/details/order/68284b99bc8527af892e25c9 204 - 0.053 ms
+Sun May 18 2025 10:40:51 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/sales/dashboard/my-retailer/details/order/68284b99bc8527af892e25c9 304 - 19.859 ms

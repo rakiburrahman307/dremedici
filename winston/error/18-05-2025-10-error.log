@@ -1,0 +1,17 @@
+Sun May 18 2025 10:2:58 [SERVER-NAME] error: 10.0.60.147 - GET /api/v1/sales/dashboard/my-retailer/details/order/undefined 400 - 5.632 ms
+Sun May 18 2025 10:4:56 [SERVER-NAME] error: 10.0.60.147 - GET /api/v1/admin/dashboard/analysis 403 - 9.642 ms
+Sun May 18 2025 10:4:56 [SERVER-NAME] error: 10.0.60.147 - GET /api/v1/admin/dashboard/revenue 403 - 9.874 ms
+Sun May 18 2025 10:4:56 [SERVER-NAME] error: 10.0.60.147 - GET /api/v1/admin/dashboard/top-sales 403 - 10.187 ms
+Sun May 18 2025 10:4:56 [SERVER-NAME] error: 10.0.60.147 - GET /api/v1/admin/dashboard/orders? 403 - 11.360 ms
+Sun May 18 2025 10:4:56 [SERVER-NAME] error: 10.0.60.147 - GET /api/v1/admin/dashboard/orders?page=1&limit=7 403 - 3.048 ms
+Sun May 18 2025 10:4:59 [SERVER-NAME] error: 10.0.60.147 - GET /api/v1/admin/orders/managment/analysis 403 - 2.583 ms
+Sun May 18 2025 10:4:59 [SERVER-NAME] error: 10.0.60.147 - GET /api/v1/admin/orders/managment? 403 - 6.145 ms
+Sun May 18 2025 10:4:59 [SERVER-NAME] error: 10.0.60.147 - GET /api/v1/admin/orders/managment/top-sales 403 - 4.628 ms
+Sun May 18 2025 10:4:59 [SERVER-NAME] error: 10.0.60.147 - GET /api/v1/admin/orders/managment/top-retailer 403 - 5.925 ms
+Sun May 18 2025 10:4:59 [SERVER-NAME] error: 10.0.60.147 - GET /api/v1/admin/orders/managment?page=1&limit=5 403 - 3.253 ms
+Sun May 18 2025 10:5:28 [SERVER-NAME] error: 10.0.60.147 - GET /api/v1/admin/retailer/managment/undefined 400 - 4.374 ms
+Sun May 18 2025 10:5:58 [SERVER-NAME] error: 10.0.60.147 - GET /api/v1/admin/retailer/managment/undefined 400 - 3.843 ms
+Sun May 18 2025 10:7:40 [SERVER-NAME] error: 10.0.60.147 - GET /api/v1/sales/dashboard/my-retailer/details/order/undefined 400 - 3.573 ms
+Sun May 18 2025 10:19:0 [SERVER-NAME] error: 10.0.60.147 - GET /api/v1/sales/dashboard/my-retailer/details/order/undefined 400 - 8.283 ms
+Sun May 18 2025 10:39:57 [SERVER-NAME] error: 10.0.60.147 - GET /api/v1/sales/dashboard/my-retailer/details/order/undefined 400 - 29.530 ms
+Sun May 18 2025 10:40:43 [SERVER-NAME] error: 10.0.60.147 - GET /api/v1/sales/dashboard/my-retailer/details/order/undefined 400 - 4.695 ms

@@ -1,0 +1,3 @@
+Mon May 19 2025 9:0:48 [SERVER-NAME] error: 10.0.60.147 - DELETE /api/v1/retailer/loyalty/reward/delete/undefined 400 - 4.868 ms
+Mon May 19 2025 9:0:57 [SERVER-NAME] error: 10.0.60.147 - DELETE /api/v1/retailer/loyalty/reward/delete/undefined 400 - 2.754 ms
+Mon May 19 2025 9:10:43 [SERVER-NAME] error: 10.0.60.147 - DELETE /api/v1/retailer/loyalty/reward/delete/undefined 400 - 2.639 ms

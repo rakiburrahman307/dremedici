@@ -1,0 +1,14 @@
+Sun May 18 2025 11:4:56 [SERVER-NAME] error: 10.0.60.126 - GET /api/v1/sales/ 404 - 1.528 ms
+Sun May 18 2025 11:5:32 [SERVER-NAME] error: 10.0.60.126 - GET /api/v1/sales/order-commission 404 - 3.532 ms
+Sun May 18 2025 11:9:12 [SERVER-NAME] error: 10.0.60.126 - GET /api/v1/sales/commission/order 400 - 79.950 ms
+Sun May 18 2025 11:9:16 [SERVER-NAME] error: 10.0.60.126 - GET /api/v1/sales/commission/order 400 - 11.279 ms
+Sun May 18 2025 11:10:45 [SERVER-NAME] error: 10.0.60.126 - GET /api/v1/sales/commission/order 400 - 33.038 ms
+Sun May 18 2025 11:10:45 [SERVER-NAME] error: 10.0.60.126 - GET /api/v1/sales/commission/order 400 - 9.932 ms
+Sun May 18 2025 11:10:46 [SERVER-NAME] error: 10.0.60.126 - GET /api/v1/sales/commission/order 400 - 8.945 ms
+Sun May 18 2025 11:10:47 [SERVER-NAME] error: 10.0.60.126 - GET /api/v1/sales/commission/order 400 - 8.180 ms
+Sun May 18 2025 11:10:47 [SERVER-NAME] error: 10.0.60.126 - GET /api/v1/sales/commission/order 400 - 11.482 ms
+Sun May 18 2025 11:10:47 [SERVER-NAME] error: 10.0.60.126 - GET /api/v1/sales/commission/order 400 - 8.428 ms
+Sun May 18 2025 11:34:45 [SERVER-NAME] error: 10.0.60.147 - GET /api/v1/sales/dashboard/my-retailer/details/order/undefined 400 - 20.976 ms
+Sun May 18 2025 11:46:47 [SERVER-NAME] error: 10.0.60.147 - GET /api/v1/sales/dashboard/my-retailer/details/order/undefined 400 - 19.271 ms
+Sun May 18 2025 11:47:3 [SERVER-NAME] error: 10.0.60.147 - GET /api/v1/sales/dashboard/my-retailer/details/order/undefined 400 - 7.781 ms
+Sun May 18 2025 11:47:11 [SERVER-NAME] error: 10.0.60.147 - GET /api/v1/sales/dashboard/my-retailer/details/order/undefined 400 - 11.061 ms

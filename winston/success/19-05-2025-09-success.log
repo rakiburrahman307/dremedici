@@ -1,0 +1,53 @@
+Mon May 19 2025 9:0:36 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/retailer/loyalty/reward? 204 - 0.049 ms
+Mon May 19 2025 9:0:36 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/retailer/loyalty/reward? 201 - 10.631 ms
+Mon May 19 2025 9:0:48 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/retailer/loyalty/reward/delete/undefined 204 - 0.045 ms
+Mon May 19 2025 9:0:57 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/retailer/loyalty/reward/delete/undefined 204 - 0.045 ms
+Mon May 19 2025 9:7:50 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/retailer/loyalty/reward/create 204 - 0.059 ms
+Mon May 19 2025 9:7:50 [SERVER-NAME] info: 10.0.60.147 - POST /api/v1/retailer/loyalty/reward/create 201 - 7.322 ms
+Mon May 19 2025 9:7:50 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/retailer/loyalty/reward? 204 - 0.042 ms
+Mon May 19 2025 9:7:50 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/retailer/loyalty/reward? 201 - 5.476 ms
+Mon May 19 2025 9:10:43 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/retailer/loyalty/reward/delete/undefined 204 - 0.041 ms
+Mon May 19 2025 9:11:55 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/retailer/loyalty/reward/delete/6829ec7ad06c5a98dc000d72 204 - 0.072 ms
+Mon May 19 2025 9:11:55 [SERVER-NAME] info: 10.0.60.147 - DELETE /api/v1/retailer/loyalty/reward/delete/6829ec7ad06c5a98dc000d72 200 - 9.553 ms
+Mon May 19 2025 9:11:55 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/retailer/loyalty/reward? 204 - 0.067 ms
+Mon May 19 2025 9:11:55 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/retailer/loyalty/reward? 201 - 6.250 ms
+Mon May 19 2025 9:12:2 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/retailer/loyalty/reward? 204 - 0.078 ms
+Mon May 19 2025 9:12:2 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/retailer/loyalty/reward? 201 - 8.899 ms
+Mon May 19 2025 9:12:11 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/retailer/loyalty/reward/delete/6829ec7ad06c5a98dc000d72 204 - 0.072 ms
+Mon May 19 2025 9:12:11 [SERVER-NAME] info: 10.0.60.147 - DELETE /api/v1/retailer/loyalty/reward/delete/6829ec7ad06c5a98dc000d72 200 - 5.410 ms
+Mon May 19 2025 9:12:11 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/retailer/loyalty/reward? 204 - 0.079 ms
+Mon May 19 2025 9:12:11 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/retailer/loyalty/reward? 201 - 7.477 ms
+Mon May 19 2025 9:12:22 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/retailer/loyalty/reward/delete/6829ec7ad06c5a98dc000d72 204 - 0.072 ms
+Mon May 19 2025 9:12:22 [SERVER-NAME] info: 10.0.60.147 - DELETE /api/v1/retailer/loyalty/reward/delete/6829ec7ad06c5a98dc000d72 200 - 7.959 ms
+Mon May 19 2025 9:12:22 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/retailer/loyalty/reward? 204 - 0.067 ms
+Mon May 19 2025 9:12:22 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/retailer/loyalty/reward? 201 - 7.631 ms
+Mon May 19 2025 9:13:29 [SERVER-NAME] info: [32mConfig validation successful.[39m
+Mon May 19 2025 9:13:29 [SERVER-NAME] info: [32m🚀 Database connected successfully[39m
+Mon May 19 2025 9:13:29 [SERVER-NAME] info: [33m♻️  Socket is listening on 10.0.60.126:5000[39m
+Mon May 19 2025 9:13:29 [SERVER-NAME] info: [33m♻️  Application listening on http://10.0.60.126:7001[39m
+Mon May 19 2025 9:13:45 [SERVER-NAME] info: [32mConfig validation successful.[39m
+Mon May 19 2025 9:13:45 [SERVER-NAME] info: [32m🚀 Database connected successfully[39m
+Mon May 19 2025 9:13:45 [SERVER-NAME] info: [33m♻️  Socket is listening on 10.0.60.126:5000[39m
+Mon May 19 2025 9:13:45 [SERVER-NAME] info: [33m♻️  Application listening on http://10.0.60.126:7001[39m
+Mon May 19 2025 9:13:56 [SERVER-NAME] info: [32mConfig validation successful.[39m
+Mon May 19 2025 9:13:56 [SERVER-NAME] info: [32m🚀 Database connected successfully[39m
+Mon May 19 2025 9:13:56 [SERVER-NAME] info: [33m♻️  Socket is listening on 10.0.60.126:5000[39m
+Mon May 19 2025 9:13:56 [SERVER-NAME] info: [33m♻️  Application listening on http://10.0.60.126:7001[39m
+Mon May 19 2025 9:14:13 [SERVER-NAME] info: [32mConfig validation successful.[39m
+Mon May 19 2025 9:14:13 [SERVER-NAME] info: [32m🚀 Database connected successfully[39m
+Mon May 19 2025 9:14:13 [SERVER-NAME] info: [33m♻️  Socket is listening on 10.0.60.126:5000[39m
+Mon May 19 2025 9:14:13 [SERVER-NAME] info: [33m♻️  Application listening on http://10.0.60.126:7001[39m
+Mon May 19 2025 9:14:21 [SERVER-NAME] info: [32mConfig validation successful.[39m
+Mon May 19 2025 9:14:21 [SERVER-NAME] info: [32m🚀 Database connected successfully[39m
+Mon May 19 2025 9:14:21 [SERVER-NAME] info: [33m♻️  Socket is listening on 10.0.60.126:5000[39m
+Mon May 19 2025 9:14:21 [SERVER-NAME] info: [33m♻️  Application listening on http://10.0.60.126:7001[39m
+Mon May 19 2025 9:14:22 [SERVER-NAME] info: [32mConfig validation successful.[39m
+Mon May 19 2025 9:14:22 [SERVER-NAME] info: [32m🚀 Database connected successfully[39m
+Mon May 19 2025 9:14:22 [SERVER-NAME] info: [33m♻️  Socket is listening on 10.0.60.126:5000[39m
+Mon May 19 2025 9:14:22 [SERVER-NAME] info: [33m♻️  Application listening on http://10.0.60.126:7001[39m
+Mon May 19 2025 9:14:24 [SERVER-NAME] info: [32mConfig validation successful.[39m
+Mon May 19 2025 9:14:24 [SERVER-NAME] info: [32m🚀 Database connected successfully[39m
+Mon May 19 2025 9:14:24 [SERVER-NAME] info: [33m♻️  Socket is listening on 10.0.60.126:5000[39m
+Mon May 19 2025 9:14:24 [SERVER-NAME] info: [33m♻️  Application listening on http://10.0.60.126:7001[39m
+Mon May 19 2025 9:18:5 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/retailer/loyalty/reward? 204 - 1.016 ms
+Mon May 19 2025 9:18:5 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/retailer/loyalty/reward? 201 - 32.894 ms

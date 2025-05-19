@@ -1,0 +1,353 @@
+Sun May 18 2025 15:1:19 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/admin/subscription/managment/get-subcription/ 200 - 9.155 ms
+Sun May 18 2025 15:11:51 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/sales/dashboard/my-retailers 204 - 0.052 ms
+Sun May 18 2025 15:11:51 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/sales/dashboard/my-retailers 304 - 7.050 ms
+Sun May 18 2025 15:15:4 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/admin/subscription/managment/get-subcription?page=1&limit=10 204 - 0.041 ms
+Sun May 18 2025 15:15:4 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/admin/subscription/managment/get-subcription?page=1&limit=10 200 - 7.360 ms
+Sun May 18 2025 15:16:2 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/admin/subscription/managment/get-subcription?page=1&limit=10&searchTerm=t 204 - 0.258 ms
+Sun May 18 2025 15:16:2 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/admin/subscription/managment/get-subcription?page=1&limit=10&searchTerm=t 200 - 15.298 ms
+Sun May 18 2025 15:16:4 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/admin/subscription/managment/get-subcription?page=1&limit=10&searchTerm=tt 204 - 0.040 ms
+Sun May 18 2025 15:16:4 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/admin/subscription/managment/get-subcription?page=1&limit=10&searchTerm=tt 200 - 4.564 ms
+Sun May 18 2025 15:17:18 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/admin/subscription/managment/get-subcription?page=1&limit=3 204 - 0.048 ms
+Sun May 18 2025 15:17:18 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/admin/subscription/managment/get-subcription?page=1&limit=3 200 - 6.575 ms
+Sun May 18 2025 15:17:39 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/admin/subscription/managment/get-subcription?page=2&limit=3 204 - 0.044 ms
+Sun May 18 2025 15:17:39 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/admin/subscription/managment/get-subcription?page=2&limit=3 200 - 6.636 ms
+Sun May 18 2025 15:19:16 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/admin/subscription/managment/get-subcription?page=1&limit=3&searchTerm=l 204 - 0.054 ms
+Sun May 18 2025 15:19:16 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/admin/subscription/managment/get-subcription?page=1&limit=3&searchTerm=l 200 - 6.150 ms
+Sun May 18 2025 15:19:19 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/admin/subscription/managment/get-subcription?page=1&limit=3&searchTerm=la 204 - 0.039 ms
+Sun May 18 2025 15:19:19 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/admin/subscription/managment/get-subcription?page=1&limit=3&searchTerm=la 200 - 6.044 ms
+Sun May 18 2025 15:25:26 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/admin/subscription/managment/get-subcription?page=2&limit=3 204 - 0.061 ms
+Sun May 18 2025 15:25:26 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/admin/subscription/managment/get-subcription?page=2&limit=3 304 - 6.702 ms
+Sun May 18 2025 15:25:36 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/admin/subscription/managment/get-subcription?page=2&limit=3&searchTerm=l 204 - 0.061 ms
+Sun May 18 2025 15:25:36 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/admin/subscription/managment/get-subcription?page=2&limit=3&searchTerm=l 200 - 7.477 ms
+Sun May 18 2025 15:25:36 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/admin/subscription/managment/get-subcription?page=1&limit=3&searchTerm=l 204 - 0.043 ms
+Sun May 18 2025 15:25:36 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/admin/subscription/managment/get-subcription?page=1&limit=3&searchTerm=l 304 - 6.421 ms
+Sun May 18 2025 15:25:44 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/admin/subscription/managment/get-subcription?page=1&limit=3&searchTerm=r 204 - 0.041 ms
+Sun May 18 2025 15:25:44 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/admin/subscription/managment/get-subcription?page=1&limit=3&searchTerm=r 200 - 6.050 ms
+Sun May 18 2025 15:25:49 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/admin/subscription/managment/get-subcription?page=1&limit=3&searchTerm=m 204 - 0.089 ms
+Sun May 18 2025 15:25:49 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/admin/subscription/managment/get-subcription?page=1&limit=3&searchTerm=m 200 - 8.593 ms
+Sun May 18 2025 15:25:49 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/admin/subscription/managment/get-subcription?page=1&limit=3&searchTerm=ma 204 - 0.042 ms
+Sun May 18 2025 15:25:49 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/admin/subscription/managment/get-subcription?page=1&limit=3&searchTerm=ma 200 - 5.965 ms
+Sun May 18 2025 15:25:49 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/admin/subscription/managment/get-subcription?page=1&limit=3&searchTerm=may 204 - 0.042 ms
+Sun May 18 2025 15:25:49 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/admin/subscription/managment/get-subcription?page=1&limit=3&searchTerm=may 200 - 4.249 ms
+Sun May 18 2025 15:25:50 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/admin/subscription/managment/get-subcription?page=1&limit=3&searchTerm=maya 204 - 0.043 ms
+Sun May 18 2025 15:25:50 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/admin/subscription/managment/get-subcription?page=1&limit=3&searchTerm=maya 200 - 4.508 ms
+Sun May 18 2025 15:25:53 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/admin/subscription/managment/get-subcription?page=1&limit=3&searchTerm=a 204 - 0.039 ms
+Sun May 18 2025 15:25:53 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/admin/subscription/managment/get-subcription?page=1&limit=3&searchTerm=a 200 - 5.935 ms
+Sun May 18 2025 15:26:24 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/admin/subscription/managment/get-subcription?page=1&limit=10 204 - 0.040 ms
+Sun May 18 2025 15:26:24 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/admin/subscription/managment/get-subcription?page=1&limit=10 304 - 7.794 ms
+Sun May 18 2025 15:26:33 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/admin/subscription/managment/get-subcription?page=1&limit=10&searchTerm=Lara+Wiley 204 - 0.042 ms
+Sun May 18 2025 15:26:33 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/admin/subscription/managment/get-subcription?page=1&limit=10&searchTerm=Lara+Wiley 200 - 4.608 ms
+Sun May 18 2025 15:26:35 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/admin/subscription/managment/get-subcription?page=1&limit=10&searchTerm=Lara+Wile 204 - 0.041 ms
+Sun May 18 2025 15:26:35 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/admin/subscription/managment/get-subcription?page=1&limit=10&searchTerm=Lara+Wile 200 - 4.246 ms
+Sun May 18 2025 15:26:35 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/admin/subscription/managment/get-subcription?page=1&limit=10&searchTerm=Lara+Wil 204 - 0.040 ms
+Sun May 18 2025 15:26:35 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/admin/subscription/managment/get-subcription?page=1&limit=10&searchTerm=Lara+Wil 200 - 4.889 ms
+Sun May 18 2025 15:26:35 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/admin/subscription/managment/get-subcription?page=1&limit=10&searchTerm=Lara+Wi 204 - 0.041 ms
+Sun May 18 2025 15:26:35 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/admin/subscription/managment/get-subcription?page=1&limit=10&searchTerm=Lara+Wi 200 - 5.092 ms
+Sun May 18 2025 15:26:35 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/admin/subscription/managment/get-subcription?page=1&limit=10&searchTerm=Lara+W 204 - 0.068 ms
+Sun May 18 2025 15:26:35 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/admin/subscription/managment/get-subcription?page=1&limit=10&searchTerm=Lara+W 200 - 7.125 ms
+Sun May 18 2025 15:26:36 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/admin/subscription/managment/get-subcription?page=1&limit=10&searchTerm=Lara 204 - 0.041 ms
+Sun May 18 2025 15:26:36 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/admin/subscription/managment/get-subcription?page=1&limit=10&searchTerm=Lara 200 - 5.431 ms
+Sun May 18 2025 15:26:36 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/admin/subscription/managment/get-subcription?page=1&limit=10&searchTerm=Lar 204 - 0.041 ms
+Sun May 18 2025 15:26:36 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/admin/subscription/managment/get-subcription?page=1&limit=10&searchTerm=Lar 200 - 4.950 ms
+Sun May 18 2025 15:26:36 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/admin/subscription/managment/get-subcription?page=1&limit=10&searchTerm=La 204 - 0.041 ms
+Sun May 18 2025 15:26:36 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/admin/subscription/managment/get-subcription?page=1&limit=10&searchTerm=La 200 - 4.264 ms
+Sun May 18 2025 15:26:36 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/admin/subscription/managment/get-subcription?page=1&limit=10&searchTerm=L 204 - 0.050 ms
+Sun May 18 2025 15:26:36 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/admin/subscription/managment/get-subcription?page=1&limit=10&searchTerm=L 200 - 6.841 ms
+Sun May 18 2025 15:26:42 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/admin/subscription/managment/get-subcription?page=1&limit=10&searchTerm=sumusecemo%40mailinator.com 204 - 0.048 ms
+Sun May 18 2025 15:26:42 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/admin/subscription/managment/get-subcription?page=1&limit=10&searchTerm=sumusecemo%40mailinator.com 200 - 4.869 ms
+Sun May 18 2025 15:26:44 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/admin/subscription/managment/get-subcription?page=1&limit=10&searchTerm=sumusecemo%40mailinator.co 204 - 0.038 ms
+Sun May 18 2025 15:26:44 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/admin/subscription/managment/get-subcription?page=1&limit=10&searchTerm=sumusecemo%40mailinator.co 200 - 4.131 ms
+Sun May 18 2025 15:26:44 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/admin/subscription/managment/get-subcription?page=1&limit=10&searchTerm=sumusecemo%40mailinator.c 204 - 0.058 ms
+Sun May 18 2025 15:26:44 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/admin/subscription/managment/get-subcription?page=1&limit=10&searchTerm=sumusecemo%40mailinator.c 200 - 4.293 ms
+Sun May 18 2025 15:26:44 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/admin/subscription/managment/get-subcription?page=1&limit=10&searchTerm=sumusecemo%40mailinator. 204 - 0.042 ms
+Sun May 18 2025 15:26:44 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/admin/subscription/managment/get-subcription?page=1&limit=10&searchTerm=sumusecemo%40mailinator. 200 - 4.573 ms
+Sun May 18 2025 15:26:44 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/admin/subscription/managment/get-subcription?page=1&limit=10&searchTerm=sumusecemo%40mailinator 204 - 0.041 ms
+Sun May 18 2025 15:26:44 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/admin/subscription/managment/get-subcription?page=1&limit=10&searchTerm=sumusecemo%40mailinator 200 - 4.414 ms
+Sun May 18 2025 15:26:44 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/admin/subscription/managment/get-subcription?page=1&limit=10&searchTerm=sumusecemo%40mailinato 204 - 0.041 ms
+Sun May 18 2025 15:26:44 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/admin/subscription/managment/get-subcription?page=1&limit=10&searchTerm=sumusecemo%40mailinato 200 - 5.064 ms
+Sun May 18 2025 15:26:44 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/admin/subscription/managment/get-subcription?page=1&limit=10&searchTerm=sumusecemo%40mailinat 204 - 0.051 ms
+Sun May 18 2025 15:26:44 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/admin/subscription/managment/get-subcription?page=1&limit=10&searchTerm=sumusecemo%40mailinat 200 - 5.908 ms
+Sun May 18 2025 15:26:44 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/admin/subscription/managment/get-subcription?page=1&limit=10&searchTerm=sumusecemo%40mailina 204 - 0.063 ms
+Sun May 18 2025 15:26:44 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/admin/subscription/managment/get-subcription?page=1&limit=10&searchTerm=sumusecemo%40mailina 200 - 4.656 ms
+Sun May 18 2025 15:26:44 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/admin/subscription/managment/get-subcription?page=1&limit=10&searchTerm=sumusecemo%40mailin 204 - 0.046 ms
+Sun May 18 2025 15:26:44 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/admin/subscription/managment/get-subcription?page=1&limit=10&searchTerm=sumusecemo%40mailin 200 - 4.726 ms
+Sun May 18 2025 15:26:44 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/admin/subscription/managment/get-subcription?page=1&limit=10&searchTerm=sumusecemo%40maili 204 - 0.042 ms
+Sun May 18 2025 15:26:44 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/admin/subscription/managment/get-subcription?page=1&limit=10&searchTerm=sumusecemo%40maili 200 - 4.490 ms
+Sun May 18 2025 15:26:44 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/admin/subscription/managment/get-subcription?page=1&limit=10&searchTerm=sumusecemo%40mail 204 - 0.044 ms
+Sun May 18 2025 15:26:44 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/admin/subscription/managment/get-subcription?page=1&limit=10&searchTerm=sumusecemo%40mail 200 - 4.779 ms
+Sun May 18 2025 15:26:44 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/admin/subscription/managment/get-subcription?page=1&limit=10&searchTerm=sumusecemo%40mai 204 - 0.043 ms
+Sun May 18 2025 15:26:44 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/admin/subscription/managment/get-subcription?page=1&limit=10&searchTerm=sumusecemo%40mai 200 - 4.542 ms
+Sun May 18 2025 15:26:44 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/admin/subscription/managment/get-subcription?page=1&limit=10&searchTerm=sumusecemo%40ma 204 - 0.041 ms
+Sun May 18 2025 15:26:44 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/admin/subscription/managment/get-subcription?page=1&limit=10&searchTerm=sumusecemo%40ma 200 - 4.923 ms
+Sun May 18 2025 15:26:44 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/admin/subscription/managment/get-subcription?page=1&limit=10&searchTerm=sumusecemo%40m 204 - 0.052 ms
+Sun May 18 2025 15:26:44 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/admin/subscription/managment/get-subcription?page=1&limit=10&searchTerm=sumusecemo%40m 200 - 4.226 ms
+Sun May 18 2025 15:26:44 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/admin/subscription/managment/get-subcription?page=1&limit=10&searchTerm=sumusecemo%40 204 - 0.050 ms
+Sun May 18 2025 15:26:44 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/admin/subscription/managment/get-subcription?page=1&limit=10&searchTerm=sumusecemo%40 200 - 4.718 ms
+Sun May 18 2025 15:26:44 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/admin/subscription/managment/get-subcription?page=1&limit=10&searchTerm=sumusecemo 204 - 0.055 ms
+Sun May 18 2025 15:26:44 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/admin/subscription/managment/get-subcription?page=1&limit=10&searchTerm=sumusecemo 200 - 4.959 ms
+Sun May 18 2025 15:26:44 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/admin/subscription/managment/get-subcription?page=1&limit=10&searchTerm=sumusecem 204 - 0.054 ms
+Sun May 18 2025 15:26:44 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/admin/subscription/managment/get-subcription?page=1&limit=10&searchTerm=sumusecem 200 - 4.932 ms
+Sun May 18 2025 15:26:45 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/admin/subscription/managment/get-subcription?page=1&limit=10&searchTerm=sumusece 204 - 0.042 ms
+Sun May 18 2025 15:26:45 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/admin/subscription/managment/get-subcription?page=1&limit=10&searchTerm=sumusece 200 - 4.340 ms
+Sun May 18 2025 15:26:45 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/admin/subscription/managment/get-subcription?page=1&limit=10&searchTerm=sumusec 204 - 0.063 ms
+Sun May 18 2025 15:26:45 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/admin/subscription/managment/get-subcription?page=1&limit=10&searchTerm=sumusec 200 - 5.453 ms
+Sun May 18 2025 15:26:45 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/admin/subscription/managment/get-subcription?page=1&limit=10&searchTerm=sumuse 204 - 0.043 ms
+Sun May 18 2025 15:26:45 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/admin/subscription/managment/get-subcription?page=1&limit=10&searchTerm=sumuse 200 - 3.938 ms
+Sun May 18 2025 15:26:45 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/admin/subscription/managment/get-subcription?page=1&limit=10&searchTerm=sumus 204 - 0.046 ms
+Sun May 18 2025 15:26:45 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/admin/subscription/managment/get-subcription?page=1&limit=10&searchTerm=sumus 200 - 4.926 ms
+Sun May 18 2025 15:26:45 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/admin/subscription/managment/get-subcription?page=1&limit=10&searchTerm=sumu 204 - 0.054 ms
+Sun May 18 2025 15:26:45 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/admin/subscription/managment/get-subcription?page=1&limit=10&searchTerm=sumu 200 - 4.541 ms
+Sun May 18 2025 15:26:45 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/admin/subscription/managment/get-subcription?page=1&limit=10&searchTerm=sum 204 - 0.066 ms
+Sun May 18 2025 15:26:45 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/admin/subscription/managment/get-subcription?page=1&limit=10&searchTerm=sum 200 - 4.861 ms
+Sun May 18 2025 15:26:45 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/admin/subscription/managment/get-subcription?page=1&limit=10&searchTerm=su 204 - 0.054 ms
+Sun May 18 2025 15:26:45 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/admin/subscription/managment/get-subcription?page=1&limit=10&searchTerm=su 200 - 4.393 ms
+Sun May 18 2025 15:26:45 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/admin/subscription/managment/get-subcription?page=1&limit=10&searchTerm=s 204 - 0.052 ms
+Sun May 18 2025 15:26:45 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/admin/subscription/managment/get-subcription?page=1&limit=10&searchTerm=s 200 - 7.633 ms
+Sun May 18 2025 15:26:49 [SERVER-NAME] info: [32mConfig validation successful.[39m
+Sun May 18 2025 15:26:49 [SERVER-NAME] info: [32m🚀 Database connected successfully[39m
+Sun May 18 2025 15:26:49 [SERVER-NAME] info: [33m♻️  Socket is listening on 10.0.60.126:6004[39m
+Sun May 18 2025 15:26:49 [SERVER-NAME] info: [33m♻️  Application listening on http://10.0.60.126:7001[39m
+Sun May 18 2025 15:26:50 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/admin/subscription/managment/get-subcription?page=1&limit=10&searchTerm=l 204 - 0.576 ms
+Sun May 18 2025 15:26:50 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/admin/subscription/managment/get-subcription?page=1&limit=10&searchTerm=l 200 - 18.118 ms
+Sun May 18 2025 15:26:53 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/admin/subscription/managment/get-subcription?page=1&limit=10&searchTerm=t 204 - 0.089 ms
+Sun May 18 2025 15:26:53 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/admin/subscription/managment/get-subcription?page=1&limit=10&searchTerm=t 200 - 5.876 ms
+Sun May 18 2025 15:27:3 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/admin/subscription/managment/get-subcription?page=1&limit=10 204 - 0.073 ms
+Sun May 18 2025 15:27:3 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/admin/subscription/managment/get-subcription?page=1&limit=10 304 - 16.555 ms
+Sun May 18 2025 15:27:7 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/admin/subscription/managment/get-subcription?page=1&limit=10&searchTerm=Lara+Wiley 204 - 0.048 ms
+Sun May 18 2025 15:27:7 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/admin/subscription/managment/get-subcription?page=1&limit=10&searchTerm=Lara+Wiley 304 - 5.631 ms
+Sun May 18 2025 15:27:9 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/admin/subscription/managment/get-subcription?page=1&limit=10&searchTerm=Lara+Wile 204 - 0.055 ms
+Sun May 18 2025 15:27:9 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/admin/subscription/managment/get-subcription?page=1&limit=10&searchTerm=Lara+Wile 304 - 5.397 ms
+Sun May 18 2025 15:27:10 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/admin/subscription/managment/get-subcription?page=1&limit=10&searchTerm=Lara+Wil 204 - 0.071 ms
+Sun May 18 2025 15:27:10 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/admin/subscription/managment/get-subcription?page=1&limit=10&searchTerm=Lara+Wil 304 - 5.307 ms
+Sun May 18 2025 15:27:10 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/admin/subscription/managment/get-subcription?page=1&limit=10&searchTerm=Lara+Wi 204 - 0.069 ms
+Sun May 18 2025 15:27:10 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/admin/subscription/managment/get-subcription?page=1&limit=10&searchTerm=Lara+Wi 304 - 6.580 ms
+Sun May 18 2025 15:27:10 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/admin/subscription/managment/get-subcription?page=1&limit=10&searchTerm=Lara+W 204 - 0.060 ms
+Sun May 18 2025 15:27:10 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/admin/subscription/managment/get-subcription?page=1&limit=10&searchTerm=Lara+W 304 - 5.358 ms
+Sun May 18 2025 15:27:10 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/admin/subscription/managment/get-subcription?page=1&limit=10&searchTerm=Lara 204 - 0.061 ms
+Sun May 18 2025 15:27:10 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/admin/subscription/managment/get-subcription?page=1&limit=10&searchTerm=Lara 304 - 5.652 ms
+Sun May 18 2025 15:27:10 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/admin/subscription/managment/get-subcription?page=1&limit=10&searchTerm=Lar 204 - 0.073 ms
+Sun May 18 2025 15:27:10 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/admin/subscription/managment/get-subcription?page=1&limit=10&searchTerm=Lar 304 - 5.882 ms
+Sun May 18 2025 15:27:10 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/admin/subscription/managment/get-subcription?page=1&limit=10&searchTerm=La 204 - 0.051 ms
+Sun May 18 2025 15:27:10 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/admin/subscription/managment/get-subcription?page=1&limit=10&searchTerm=La 304 - 4.470 ms
+Sun May 18 2025 15:27:10 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/admin/subscription/managment/get-subcription?page=1&limit=10&searchTerm=L 204 - 0.050 ms
+Sun May 18 2025 15:27:10 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/admin/subscription/managment/get-subcription?page=1&limit=10&searchTerm=L 200 - 4.785 ms
+Sun May 18 2025 15:27:11 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/admin/subscription/managment/get-subcription?page=1&limit=10&searchTerm=l 204 - 0.045 ms
+Sun May 18 2025 15:27:11 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/admin/subscription/managment/get-subcription?page=1&limit=10&searchTerm=l 304 - 4.953 ms
+Sun May 18 2025 15:27:14 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/admin/subscription/managment/get-subcription?page=1&limit=10&searchTerm=w 204 - 0.053 ms
+Sun May 18 2025 15:27:14 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/admin/subscription/managment/get-subcription?page=1&limit=10&searchTerm=w 200 - 4.758 ms
+Sun May 18 2025 15:27:16 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/admin/subscription/managment/get-subcription?page=1&limit=10&searchTerm=m 204 - 0.042 ms
+Sun May 18 2025 15:27:16 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/admin/subscription/managment/get-subcription?page=1&limit=10&searchTerm=m 200 - 5.038 ms
+Sun May 18 2025 15:27:38 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/admin/subscription/managment/get-subcription?page=1&limit=10&searchTerm=g 204 - 0.058 ms
+Sun May 18 2025 15:27:38 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/admin/subscription/managment/get-subcription?page=1&limit=10&searchTerm=g 200 - 4.640 ms
+Sun May 18 2025 15:27:40 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/admin/subscription/managment/get-subcription?page=1&limit=10&searchTerm=s 204 - 0.041 ms
+Sun May 18 2025 15:27:40 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/admin/subscription/managment/get-subcription?page=1&limit=10&searchTerm=s 200 - 4.893 ms
+Sun May 18 2025 15:27:44 [SERVER-NAME] info: [32mConfig validation successful.[39m
+Sun May 18 2025 15:27:44 [SERVER-NAME] info: [32m🚀 Database connected successfully[39m
+Sun May 18 2025 15:27:44 [SERVER-NAME] info: [33m♻️  Socket is listening on 10.0.60.126:6004[39m
+Sun May 18 2025 15:27:44 [SERVER-NAME] info: [33m♻️  Application listening on http://10.0.60.126:7001[39m
+Sun May 18 2025 15:27:47 [SERVER-NAME] info: [32mConfig validation successful.[39m
+Sun May 18 2025 15:27:47 [SERVER-NAME] info: [32m🚀 Database connected successfully[39m
+Sun May 18 2025 15:27:47 [SERVER-NAME] info: [33m♻️  Socket is listening on 10.0.60.126:6004[39m
+Sun May 18 2025 15:27:47 [SERVER-NAME] info: [33m♻️  Application listening on http://10.0.60.126:7001[39m
+Sun May 18 2025 15:27:47 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/admin/subscription/managment/get-subcription?page=1&limit=10 204 - 0.637 ms
+Sun May 18 2025 15:27:47 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/admin/subscription/managment/get-subcription?page=1&limit=10 304 - 27.509 ms
+Sun May 18 2025 15:27:50 [SERVER-NAME] info: [32mConfig validation successful.[39m
+Sun May 18 2025 15:27:50 [SERVER-NAME] info: [32m🚀 Database connected successfully[39m
+Sun May 18 2025 15:27:50 [SERVER-NAME] info: [33m♻️  Socket is listening on 10.0.60.126:6004[39m
+Sun May 18 2025 15:27:50 [SERVER-NAME] info: [33m♻️  Application listening on http://10.0.60.126:7001[39m
+Sun May 18 2025 15:27:53 [SERVER-NAME] info: [32mConfig validation successful.[39m
+Sun May 18 2025 15:27:53 [SERVER-NAME] info: [32m🚀 Database connected successfully[39m
+Sun May 18 2025 15:27:53 [SERVER-NAME] info: [33m♻️  Socket is listening on 10.0.60.126:6004[39m
+Sun May 18 2025 15:27:53 [SERVER-NAME] info: [33m♻️  Application listening on http://10.0.60.126:7001[39m
+Sun May 18 2025 15:28:2 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/admin/subscription/managment/get-subcription?page=1&limit=10&searchTerm=t 204 - 0.622 ms
+Sun May 18 2025 15:28:2 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/admin/subscription/managment/get-subcription?page=1&limit=10&searchTerm=t 304 - 19.442 ms
+Sun May 18 2025 15:28:6 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/admin/subscription/managment/get-subcription?page=1&limit=10&searchTerm=m 204 - 0.092 ms
+Sun May 18 2025 15:28:6 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/admin/subscription/managment/get-subcription?page=1&limit=10&searchTerm=m 304 - 7.189 ms
+Sun May 18 2025 15:28:7 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/admin/subscription/managment/get-subcription?page=1&limit=10&searchTerm=m%3D 204 - 0.056 ms
+Sun May 18 2025 15:28:7 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/admin/subscription/managment/get-subcription?page=1&limit=10&searchTerm=m%3D 200 - 5.712 ms
+Sun May 18 2025 15:28:8 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/admin/subscription/managment/get-subcription?page=1&limit=10&searchTerm=a 204 - 0.071 ms
+Sun May 18 2025 15:28:8 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/admin/subscription/managment/get-subcription?page=1&limit=10&searchTerm=a 200 - 5.053 ms
+Sun May 18 2025 15:28:18 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/admin/subscription/managment/get-subcription?page=1&limit=10&searchTerm=j 204 - 0.069 ms
+Sun May 18 2025 15:28:18 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/admin/subscription/managment/get-subcription?page=1&limit=10&searchTerm=j 200 - 5.001 ms
+Sun May 18 2025 15:28:20 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/admin/subscription/managment/get-subcription?page=1&limit=10&searchTerm=e 204 - 0.057 ms
+Sun May 18 2025 15:28:20 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/admin/subscription/managment/get-subcription?page=1&limit=10&searchTerm=e 200 - 6.662 ms
+Sun May 18 2025 15:28:21 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/admin/subscription/managment/get-subcription?page=1&limit=10&searchTerm=g 204 - 0.063 ms
+Sun May 18 2025 15:28:21 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/admin/subscription/managment/get-subcription?page=1&limit=10&searchTerm=g 304 - 4.948 ms
+Sun May 18 2025 15:28:31 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/admin/subscription/managment/get-subcription/ 200 - 15.257 ms
+Sun May 18 2025 15:28:54 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/admin/subscription/managment/get-subcription/?searchTerm=Lara%20Wiley 200 - 6.012 ms
+Sun May 18 2025 15:29:2 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/admin/subscription/managment/get-subcription/?searchTerm= 200 - 8.725 ms
+Sun May 18 2025 15:29:11 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/admin/subscription/managment/get-subcription/?searchTerm=Gold 200 - 5.133 ms
+Sun May 18 2025 15:29:21 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/admin/subscription/managment/get-subcription/?searchTerm= 200 - 7.182 ms
+Sun May 18 2025 15:29:54 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/admin/subscription/managment/get-subcription/?searchTerm=with 200 - 4.734 ms
+Sun May 18 2025 15:30:1 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/admin/subscription/managment/get-subcription/?searchTerm= 200 - 7.586 ms
+Sun May 18 2025 15:30:11 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/admin/subscription/managment/get-subcription/?searchTerm=Gold 200 - 4.951 ms
+Sun May 18 2025 15:31:41 [SERVER-NAME] info: 10.0.60.126 - POST /api/v1/auth/login 200 - 217.556 ms
+Sun May 18 2025 15:31:49 [SERVER-NAME] info: 10.0.60.126 - GET /api/v1/admin/subscription/managment/get-subcription/6825ac7b7e1ec0a8b3f7060e 200 - 5.735 ms
+Sun May 18 2025 15:32:2 [SERVER-NAME] info: 10.0.60.126 - GET /api/v1/admin/subscription/managment/get-subcription 200 - 8.692 ms
+Sun May 18 2025 15:32:22 [SERVER-NAME] info: 10.0.60.126 - GET /api/v1/admin/subscription/managment/get-subcription?searchTerm=Standard 200 - 4.611 ms
+Sun May 18 2025 15:32:32 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/admin/subscription/managment/analysis 204 - 0.065 ms
+Sun May 18 2025 15:32:32 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/admin/subscription/managment/analysis 200 - 4.419 ms
+Sun May 18 2025 15:32:50 [SERVER-NAME] info: 10.0.60.126 - GET /api/v1/admin/subscription/managment/get-subcription?searchTerm=standard 200 - 7.413 ms
+Sun May 18 2025 15:32:58 [SERVER-NAME] info: 10.0.60.126 - GET /api/v1/admin/subscription/managment/get-subcription 200 - 8.298 ms
+Sun May 18 2025 15:33:15 [SERVER-NAME] info: 10.0.60.126 - GET /api/v1/admin/subscription/managment/get-subcription?searchTerm=Lara%20Wiley 200 - 5.686 ms
+Sun May 18 2025 15:33:21 [SERVER-NAME] info: 10.0.60.126 - GET /api/v1/admin/subscription/managment/get-subcription?searchTerm=Lara%20Wiley 200 - 5.851 ms
+Sun May 18 2025 15:34:2 [SERVER-NAME] info: [32mConfig validation successful.[39m
+Sun May 18 2025 15:34:2 [SERVER-NAME] info: [32m🚀 Database connected successfully[39m
+Sun May 18 2025 15:34:2 [SERVER-NAME] info: [33m♻️  Socket is listening on 10.0.60.126:6004[39m
+Sun May 18 2025 15:34:2 [SERVER-NAME] info: [33m♻️  Application listening on http://10.0.60.126:7001[39m
+Sun May 18 2025 15:34:5 [SERVER-NAME] info: 10.0.60.126 - GET /api/v1/admin/subscription/managment/get-subcription?searchTerm=Lara%20Wiley 200 - 19.185 ms
+Sun May 18 2025 15:34:15 [SERVER-NAME] info: 10.0.60.126 - GET /api/v1/admin/subscription/managment/get-subcription 200 - 20.451 ms
+Sun May 18 2025 15:34:22 [SERVER-NAME] info: 10.0.60.126 - GET /api/v1/admin/subscription/managment/get-subcription 200 - 11.957 ms
+Sun May 18 2025 15:34:31 [SERVER-NAME] info: 10.0.60.126 - GET /api/v1/admin/subscription/managment/get-subcription?searchTerm=Gold 200 - 5.328 ms
+Sun May 18 2025 15:34:55 [SERVER-NAME] info: [32mConfig validation successful.[39m
+Sun May 18 2025 15:34:55 [SERVER-NAME] info: [32m🚀 Database connected successfully[39m
+Sun May 18 2025 15:34:55 [SERVER-NAME] info: [33m♻️  Socket is listening on 10.0.60.126:6004[39m
+Sun May 18 2025 15:34:55 [SERVER-NAME] info: [33m♻️  Application listening on http://10.0.60.126:7001[39m
+Sun May 18 2025 15:34:57 [SERVER-NAME] info: [32mConfig validation successful.[39m
+Sun May 18 2025 15:34:57 [SERVER-NAME] info: [32m🚀 Database connected successfully[39m
+Sun May 18 2025 15:34:57 [SERVER-NAME] info: [33m♻️  Socket is listening on 10.0.60.126:6004[39m
+Sun May 18 2025 15:34:57 [SERVER-NAME] info: [33m♻️  Application listening on http://10.0.60.126:7001[39m
+Sun May 18 2025 15:36:9 [SERVER-NAME] info: 10.0.60.126 - GET /api/v1/admin/subscription/managment/get-subcription?searchTerm=Gold 200 - 20.654 ms
+Sun May 18 2025 15:36:18 [SERVER-NAME] info: 10.0.60.126 - GET /api/v1/admin/subscription/managment/get-subcription?page=2 200 - 5.807 ms
+Sun May 18 2025 15:36:26 [SERVER-NAME] info: 10.0.60.126 - GET /api/v1/admin/subscription/managment/get-subcription?page=1 200 - 14.601 ms
+Sun May 18 2025 15:38:11 [SERVER-NAME] info: 10.0.60.126 - GET /api/v1/admin/subscription/managment/get-subcription?searchTerm=Gold&page=1 200 - 5.648 ms
+Sun May 18 2025 15:38:34 [SERVER-NAME] info: [32mConfig validation successful.[39m
+Sun May 18 2025 15:38:34 [SERVER-NAME] info: [32m🚀 Database connected successfully[39m
+Sun May 18 2025 15:38:34 [SERVER-NAME] info: [33m♻️  Socket is listening on 10.0.60.126:6004[39m
+Sun May 18 2025 15:38:34 [SERVER-NAME] info: [33m♻️  Application listening on http://10.0.60.126:7001[39m
+Sun May 18 2025 15:38:34 [SERVER-NAME] info: 10.0.60.126 - GET /api/v1/admin/subscription/managment/get-subcription?searchTerm=Gold&page=1 200 - 28.675 ms
+Sun May 18 2025 15:38:58 [SERVER-NAME] info: [32mConfig validation successful.[39m
+Sun May 18 2025 15:38:58 [SERVER-NAME] info: [32m🚀 Database connected successfully[39m
+Sun May 18 2025 15:38:58 [SERVER-NAME] info: [33m♻️  Socket is listening on 10.0.60.126:6004[39m
+Sun May 18 2025 15:38:58 [SERVER-NAME] info: [33m♻️  Application listening on http://10.0.60.126:7001[39m
+Sun May 18 2025 15:38:59 [SERVER-NAME] info: [32mConfig validation successful.[39m
+Sun May 18 2025 15:38:59 [SERVER-NAME] info: [32m🚀 Database connected successfully[39m
+Sun May 18 2025 15:38:59 [SERVER-NAME] info: [33m♻️  Socket is listening on 10.0.60.126:6004[39m
+Sun May 18 2025 15:38:59 [SERVER-NAME] info: [33m♻️  Application listening on http://10.0.60.126:7001[39m
+Sun May 18 2025 15:39:3 [SERVER-NAME] info: 10.0.60.126 - GET /api/v1/admin/subscription/managment/get-subcription?searchTerm=Gold&page=1 200 - 20.782 ms
+Sun May 18 2025 15:39:56 [SERVER-NAME] info: [32mConfig validation successful.[39m
+Sun May 18 2025 15:39:56 [SERVER-NAME] info: [32m🚀 Database connected successfully[39m
+Sun May 18 2025 15:39:56 [SERVER-NAME] info: [33m♻️  Socket is listening on 10.0.60.126:6004[39m
+Sun May 18 2025 15:39:56 [SERVER-NAME] info: [33m♻️  Application listening on http://10.0.60.126:7001[39m
+Sun May 18 2025 15:44:37 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/admin/subscription/managment/analysis 204 - 0.920 ms
+Sun May 18 2025 15:44:37 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/admin/subscription/managment/get-subcription?page=1&limit=10 204 - 0.121 ms
+Sun May 18 2025 15:44:37 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/admin/subscription/managment/analysis 304 - 17.645 ms
+Sun May 18 2025 15:44:37 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/admin/subscription/managment/get-subcription?page=1&limit=10 200 - 23.105 ms
+Sun May 18 2025 15:44:42 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/admin/subscription/managment/get-subcription?page=1&limit=10&searchTerm=r 204 - 0.053 ms
+Sun May 18 2025 15:44:42 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/admin/subscription/managment/get-subcription?page=1&limit=10&searchTerm=r 200 - 5.787 ms
+Sun May 18 2025 15:44:45 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/admin/subscription/managment/get-subcription?page=1&limit=10&searchTerm=a 204 - 0.053 ms
+Sun May 18 2025 15:44:45 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/admin/subscription/managment/get-subcription?page=1&limit=10&searchTerm=a 200 - 5.104 ms
+Sun May 18 2025 15:45:10 [SERVER-NAME] info: [32mConfig validation successful.[39m
+Sun May 18 2025 15:45:10 [SERVER-NAME] info: [32m🚀 Database connected successfully[39m
+Sun May 18 2025 15:45:10 [SERVER-NAME] info: [33m♻️  Socket is listening on 10.0.60.126:6004[39m
+Sun May 18 2025 15:45:10 [SERVER-NAME] info: [33m♻️  Application listening on http://10.0.60.126:7001[39m
+Sun May 18 2025 15:46:31 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/admin/subscription 204 - 0.619 ms
+Sun May 18 2025 15:46:31 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/admin/subscription 200 - 19.522 ms
+Sun May 18 2025 15:47:35 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/retailer/dashboard/summary 204 - 0.094 ms
+Sun May 18 2025 15:47:35 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/retailer/dashboard 204 - 0.049 ms
+Sun May 18 2025 15:47:35 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/retailer/dashboard/summary 200 - 6.700 ms
+Sun May 18 2025 15:48:10 [SERVER-NAME] info: [32mConfig validation successful.[39m
+Sun May 18 2025 15:48:10 [SERVER-NAME] info: [32m🚀 Database connected successfully[39m
+Sun May 18 2025 15:48:10 [SERVER-NAME] info: [33m♻️  Socket is listening on 10.0.60.126:6004[39m
+Sun May 18 2025 15:48:10 [SERVER-NAME] info: [33m♻️  Application listening on http://10.0.60.126:7001[39m
+Sun May 18 2025 15:48:14 [SERVER-NAME] info: [32mConfig validation successful.[39m
+Sun May 18 2025 15:48:14 [SERVER-NAME] info: [32m🚀 Database connected successfully[39m
+Sun May 18 2025 15:48:14 [SERVER-NAME] info: [33m♻️  Socket is listening on 10.0.60.126:6004[39m
+Sun May 18 2025 15:48:14 [SERVER-NAME] info: [33m♻️  Application listening on http://10.0.60.126:7001[39m
+Sun May 18 2025 15:48:19 [SERVER-NAME] info: [32mConfig validation successful.[39m
+Sun May 18 2025 15:48:19 [SERVER-NAME] info: [32m🚀 Database connected successfully[39m
+Sun May 18 2025 15:48:19 [SERVER-NAME] info: [33m♻️  Socket is listening on 10.0.60.126:6004[39m
+Sun May 18 2025 15:48:19 [SERVER-NAME] info: [33m♻️  Application listening on http://10.0.60.126:7001[39m
+Sun May 18 2025 15:48:23 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/auth/login 204 - 0.618 ms
+Sun May 18 2025 15:48:23 [SERVER-NAME] info: 10.0.60.147 - POST /api/v1/auth/login 200 - 236.209 ms
+Sun May 18 2025 15:48:24 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/retailer/dashboard 204 - 0.099 ms
+Sun May 18 2025 15:48:26 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/retailer/dashboard/orders? 204 - 0.053 ms
+Sun May 18 2025 15:48:26 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/retailer/dashboard/orders? 200 - 13.223 ms
+Sun May 18 2025 15:48:35 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/retailer/dashboard/summary 204 - 0.049 ms
+Sun May 18 2025 15:48:35 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/retailer/dashboard 204 - 0.048 ms
+Sun May 18 2025 15:48:35 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/retailer/dashboard/summary 200 - 6.942 ms
+Sun May 18 2025 15:48:40 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/retailer/dashboard/orders? 204 - 0.063 ms
+Sun May 18 2025 15:48:40 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/retailer/dashboard/orders? 304 - 7.285 ms
+Sun May 18 2025 15:48:41 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/retailer/subscription 204 - 0.064 ms
+Sun May 18 2025 15:48:41 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/retailer/subscription 200 - 4.982 ms
+Sun May 18 2025 15:48:46 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/retailer/dashboard/orders/682346cf51f99c3bacfc5d6d 204 - 0.060 ms
+Sun May 18 2025 15:48:46 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/retailer/dashboard/orders/682346cf51f99c3bacfc5d6d 200 - 9.999 ms
+Sun May 18 2025 15:49:8 [SERVER-NAME] info: 10.0.60.126 - POST /api/v1/auth/login 200 - 213.349 ms
+Sun May 18 2025 15:49:28 [SERVER-NAME] info: [32mConfig validation successful.[39m
+Sun May 18 2025 15:49:28 [SERVER-NAME] info: [32m🚀 Database connected successfully[39m
+Sun May 18 2025 15:49:28 [SERVER-NAME] info: [33m♻️  Socket is listening on 10.0.60.126:6004[39m
+Sun May 18 2025 15:49:28 [SERVER-NAME] info: [33m♻️  Application listening on http://10.0.60.126:7001[39m
+Sun May 18 2025 15:49:29 [SERVER-NAME] info: [32mConfig validation successful.[39m
+Sun May 18 2025 15:49:29 [SERVER-NAME] info: [32m🚀 Database connected successfully[39m
+Sun May 18 2025 15:49:29 [SERVER-NAME] info: [33m♻️  Socket is listening on 10.0.60.126:6004[39m
+Sun May 18 2025 15:49:29 [SERVER-NAME] info: [33m♻️  Application listening on http://10.0.60.126:7001[39m
+Sun May 18 2025 15:49:30 [SERVER-NAME] info: [32mConfig validation successful.[39m
+Sun May 18 2025 15:49:30 [SERVER-NAME] info: [32m🚀 Database connected successfully[39m
+Sun May 18 2025 15:49:30 [SERVER-NAME] info: [33m♻️  Socket is listening on 10.0.60.126:6004[39m
+Sun May 18 2025 15:49:30 [SERVER-NAME] info: [33m♻️  Application listening on http://10.0.60.126:7001[39m
+Sun May 18 2025 15:50:56 [SERVER-NAME] info: 10.0.60.126 - GET /api/v1/sales/orders/my-order 200 - 20.601 ms
+Sun May 18 2025 15:51:10 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/users/profile 204 - 0.312 ms
+Sun May 18 2025 15:51:10 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/users/profile 200 - 4.560 ms
+Sun May 18 2025 15:51:10 [SERVER-NAME] info: 10.0.60.147 - GET //image/portrait-confident-male-doctor-1747461241822.png 200 - 1.282 ms
+Sun May 18 2025 15:51:10 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/admin/settings 204 - 0.098 ms
+Sun May 18 2025 15:51:10 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/admin/settings 304 - 2.892 ms
+Sun May 18 2025 15:51:14 [SERVER-NAME] info: 10.0.60.147 - GET //image/portrait-confident-male-doctor-1747461241822.png 304 - 0.601 ms
+Sun May 18 2025 15:51:28 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/retailer/subscription 204 - 0.057 ms
+Sun May 18 2025 15:51:28 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/retailer/subscription 304 - 4.678 ms
+Sun May 18 2025 15:52:23 [SERVER-NAME] info: 10.0.60.126 - GET /api/v1/sales/orders/my-order/6829a056b63272c13d8ccdd2 200 - 12.635 ms
+Sun May 18 2025 15:53:29 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/admin/settings 204 - 0.068 ms
+Sun May 18 2025 15:53:29 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/admin/settings 304 - 2.418 ms
+Sun May 18 2025 15:53:35 [SERVER-NAME] info: [32mConfig validation successful.[39m
+Sun May 18 2025 15:53:35 [SERVER-NAME] info: [32m🚀 Database connected successfully[39m
+Sun May 18 2025 15:53:35 [SERVER-NAME] info: [33m♻️  Socket is listening on 10.0.60.126:6004[39m
+Sun May 18 2025 15:53:35 [SERVER-NAME] info: [33m♻️  Application listening on http://10.0.60.126:7001[39m
+Sun May 18 2025 15:53:36 [SERVER-NAME] info: [32mConfig validation successful.[39m
+Sun May 18 2025 15:53:36 [SERVER-NAME] info: [32m🚀 Database connected successfully[39m
+Sun May 18 2025 15:53:36 [SERVER-NAME] info: [33m♻️  Socket is listening on 10.0.60.126:6004[39m
+Sun May 18 2025 15:53:36 [SERVER-NAME] info: [33m♻️  Application listening on http://10.0.60.126:7001[39m
+Sun May 18 2025 15:53:39 [SERVER-NAME] info: [32mConfig validation successful.[39m
+Sun May 18 2025 15:53:39 [SERVER-NAME] info: [32m🚀 Database connected successfully[39m
+Sun May 18 2025 15:53:39 [SERVER-NAME] info: [33m♻️  Socket is listening on 10.0.60.126:6004[39m
+Sun May 18 2025 15:53:39 [SERVER-NAME] info: [33m♻️  Application listening on http://10.0.60.126:7001[39m
+Sun May 18 2025 15:53:40 [SERVER-NAME] info: [32mConfig validation successful.[39m
+Sun May 18 2025 15:53:40 [SERVER-NAME] info: [32m🚀 Database connected successfully[39m
+Sun May 18 2025 15:53:40 [SERVER-NAME] info: [33m♻️  Socket is listening on 10.0.60.126:6004[39m
+Sun May 18 2025 15:53:40 [SERVER-NAME] info: [33m♻️  Application listening on http://10.0.60.126:7001[39m
+Sun May 18 2025 15:53:56 [SERVER-NAME] info: [32mConfig validation successful.[39m
+Sun May 18 2025 15:53:56 [SERVER-NAME] info: [32m🚀 Database connected successfully[39m
+Sun May 18 2025 15:53:56 [SERVER-NAME] info: [33m♻️  Socket is listening on 10.0.60.126:6004[39m
+Sun May 18 2025 15:53:56 [SERVER-NAME] info: [33m♻️  Application listening on http://10.0.60.126:7001[39m
+Sun May 18 2025 15:54:0 [SERVER-NAME] info: [32mConfig validation successful.[39m
+Sun May 18 2025 15:54:0 [SERVER-NAME] info: [32m🚀 Database connected successfully[39m
+Sun May 18 2025 15:54:0 [SERVER-NAME] info: [33m♻️  Socket is listening on 10.0.60.126:6004[39m
+Sun May 18 2025 15:54:0 [SERVER-NAME] info: [33m♻️  Application listening on http://10.0.60.126:7001[39m
+Sun May 18 2025 15:54:2 [SERVER-NAME] info: [32mConfig validation successful.[39m
+Sun May 18 2025 15:54:2 [SERVER-NAME] info: [32m🚀 Database connected successfully[39m
+Sun May 18 2025 15:54:2 [SERVER-NAME] info: [33m♻️  Socket is listening on 10.0.60.126:6004[39m
+Sun May 18 2025 15:54:2 [SERVER-NAME] info: [33m♻️  Application listening on http://10.0.60.126:7001[39m
+Sun May 18 2025 15:54:3 [SERVER-NAME] info: [32mConfig validation successful.[39m
+Sun May 18 2025 15:54:3 [SERVER-NAME] info: [32m🚀 Database connected successfully[39m
+Sun May 18 2025 15:54:3 [SERVER-NAME] info: [33m♻️  Socket is listening on 10.0.60.126:6004[39m
+Sun May 18 2025 15:54:3 [SERVER-NAME] info: [33m♻️  Application listening on http://10.0.60.126:7001[39m
+Sun May 18 2025 15:54:29 [SERVER-NAME] info: [32mConfig validation successful.[39m
+Sun May 18 2025 15:54:29 [SERVER-NAME] info: [32m🚀 Database connected successfully[39m
+Sun May 18 2025 15:54:29 [SERVER-NAME] info: [33m♻️  Socket is listening on 10.0.60.126:6004[39m
+Sun May 18 2025 15:54:29 [SERVER-NAME] info: [33m♻️  Application listening on http://10.0.60.126:7001[39m
+Sun May 18 2025 15:54:40 [SERVER-NAME] info: [32mConfig validation successful.[39m
+Sun May 18 2025 15:54:40 [SERVER-NAME] info: [32m🚀 Database connected successfully[39m
+Sun May 18 2025 15:54:40 [SERVER-NAME] info: [33m♻️  Socket is listening on 10.0.60.126:6004[39m
+Sun May 18 2025 15:54:40 [SERVER-NAME] info: [33m♻️  Application listening on http://10.0.60.126:7001[39m
+Sun May 18 2025 15:54:41 [SERVER-NAME] info: [32mConfig validation successful.[39m
+Sun May 18 2025 15:54:41 [SERVER-NAME] info: [32m🚀 Database connected successfully[39m
+Sun May 18 2025 15:54:41 [SERVER-NAME] info: [33m♻️  Socket is listening on 10.0.60.126:6004[39m
+Sun May 18 2025 15:54:41 [SERVER-NAME] info: [33m♻️  Application listening on http://10.0.60.126:7001[39m
+Sun May 18 2025 15:54:42 [SERVER-NAME] info: 10.0.60.126 - GET /api/v1/sales/orders/my-order 200 - 28.817 ms
+Sun May 18 2025 15:56:22 [SERVER-NAME] info: 10.0.60.126 - GET /api/v1/sales/orders/my-order?searchTerm=b5031491 200 - 14.711 ms
+Sun May 18 2025 15:56:36 [SERVER-NAME] info: [32mConfig validation successful.[39m
+Sun May 18 2025 15:56:36 [SERVER-NAME] info: [32m🚀 Database connected successfully[39m
+Sun May 18 2025 15:56:36 [SERVER-NAME] info: [33m♻️  Socket is listening on 10.0.60.126:6004[39m
+Sun May 18 2025 15:56:36 [SERVER-NAME] info: [33m♻️  Application listening on http://10.0.60.126:7001[39m
+Sun May 18 2025 15:56:47 [SERVER-NAME] info: 10.0.60.126 - GET /api/v1/sales/orders/my-order?searchTerm=Jowel 200 - 20.735 ms
+Sun May 18 2025 15:56:58 [SERVER-NAME] info: 10.0.60.126 - GET /api/v1/sales/orders/my-order?searchTerm=b5031491 200 - 26.189 ms
+Sun May 18 2025 15:57:3 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/admin/settings 204 - 0.377 ms
+Sun May 18 2025 15:57:3 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/admin/settings 304 - 3.263 ms

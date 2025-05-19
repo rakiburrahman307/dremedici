@@ -1,0 +1,72 @@
+Sun May 18 2025 17:4:47 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/sales/orders/my-order?page=1&limit=10&search=&status= 204 - 0.057 ms
+Sun May 18 2025 17:4:47 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/sales/orders/my-order?page=1&limit=10&search=&status= 200 - 11.618 ms
+Sun May 18 2025 17:30:1 [SERVER-NAME] info: [34mSIGINT received. Shutting down gracefully...[39m
+Sun May 18 2025 17:30:24 [SERVER-NAME] info: [32mConfig validation successful.[39m
+Sun May 18 2025 17:30:24 [SERVER-NAME] info: [32m🚀 Database connected successfully[39m
+Sun May 18 2025 17:30:24 [SERVER-NAME] info: [33m♻️  Socket is listening on 10.0.60.126:5000[39m
+Sun May 18 2025 17:30:24 [SERVER-NAME] info: [33m♻️  Application listening on http://10.0.60.126:7001[39m
+Sun May 18 2025 17:30:33 [SERVER-NAME] info: [34mSIGINT received. Shutting down gracefully...[39m
+Sun May 18 2025 17:30:37 [SERVER-NAME] info: [32mConfig validation successful.[39m
+Sun May 18 2025 17:30:37 [SERVER-NAME] info: [32m🚀 Database connected successfully[39m
+Sun May 18 2025 17:30:37 [SERVER-NAME] info: [33m♻️  Socket is listening on 10.0.60.126:5000[39m
+Sun May 18 2025 17:30:37 [SERVER-NAME] info: [33m♻️  Application listening on http://10.0.60.126:5000[39m
+Sun May 18 2025 17:31:2 [SERVER-NAME] info: [34mSIGINT received. Shutting down gracefully...[39m
+Sun May 18 2025 17:31:6 [SERVER-NAME] info: [32mConfig validation successful.[39m
+Sun May 18 2025 17:31:6 [SERVER-NAME] info: [32m🚀 Database connected successfully[39m
+Sun May 18 2025 17:31:6 [SERVER-NAME] info: [33m♻️  Socket is listening on 10.0.60.126:5000[39m
+Sun May 18 2025 17:31:6 [SERVER-NAME] info: [33m♻️  Application listening on http://10.0.60.126:7001[39m
+Sun May 18 2025 17:36:53 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/sales/orders/my-order? 204 - 1.034 ms
+Sun May 18 2025 17:36:53 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/sales/orders/my-order? 200 - 45.833 ms
+Sun May 18 2025 17:38:4 [SERVER-NAME] info: [32mConfig validation successful.[39m
+Sun May 18 2025 17:38:5 [SERVER-NAME] info: [32m🚀 Database connected successfully[39m
+Sun May 18 2025 17:38:5 [SERVER-NAME] info: [33m♻️  Socket is listening on 10.0.60.126:5000[39m
+Sun May 18 2025 17:38:5 [SERVER-NAME] info: [33m♻️  Application listening on http://10.0.60.126:7001[39m
+Sun May 18 2025 17:38:8 [SERVER-NAME] info: [32mConfig validation successful.[39m
+Sun May 18 2025 17:38:8 [SERVER-NAME] info: [32m🚀 Database connected successfully[39m
+Sun May 18 2025 17:38:8 [SERVER-NAME] info: [33m♻️  Socket is listening on 10.0.60.126:5000[39m
+Sun May 18 2025 17:38:8 [SERVER-NAME] info: [33m♻️  Application listening on http://10.0.60.126:7001[39m
+Sun May 18 2025 17:38:12 [SERVER-NAME] info: 10.0.60.126 - GET /api/v1/sales/my-sales?years=2025,2026 200 - 18.441 ms
+Sun May 18 2025 17:38:28 [SERVER-NAME] info: [32mConfig validation successful.[39m
+Sun May 18 2025 17:38:28 [SERVER-NAME] info: [32m🚀 Database connected successfully[39m
+Sun May 18 2025 17:38:28 [SERVER-NAME] info: [33m♻️  Socket is listening on 10.0.60.126:5000[39m
+Sun May 18 2025 17:38:28 [SERVER-NAME] info: [33m♻️  Application listening on http://10.0.60.126:7001[39m
+Sun May 18 2025 17:40:43 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/sales/orders/my-order? 204 - 0.807 ms
+Sun May 18 2025 17:40:43 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/sales/orders/my-order? 304 - 34.275 ms
+Sun May 18 2025 17:40:43 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/sales/orders/my-order?page=1&limit=5 204 - 0.098 ms
+Sun May 18 2025 17:40:43 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/sales/orders/my-order?page=1&limit=5 200 - 12.056 ms
+Sun May 18 2025 17:40:48 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/sales/orders/my-order?searchTerm=r&page=1&limit=5 204 - 0.054 ms
+Sun May 18 2025 17:40:48 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/sales/orders/my-order?searchTerm=r&page=1&limit=5 200 - 12.722 ms
+Sun May 18 2025 17:40:48 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/sales/orders/my-order?searchTerm=rr&page=1&limit=5 204 - 0.054 ms
+Sun May 18 2025 17:40:48 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/sales/orders/my-order?searchTerm=rr&page=1&limit=5 200 - 6.159 ms
+Sun May 18 2025 17:40:52 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/sales/orders/my-order?orderStatus=processing&page=1&limit=5 204 - 0.049 ms
+Sun May 18 2025 17:40:52 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/sales/orders/my-order?orderStatus=processing&page=1&limit=5 200 - 6.682 ms
+Sun May 18 2025 17:40:54 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/sales/orders/my-order?orderStatus=shipped&page=1&limit=5 204 - 0.071 ms
+Sun May 18 2025 17:40:54 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/sales/orders/my-order?orderStatus=shipped&page=1&limit=5 200 - 6.911 ms
+Sun May 18 2025 17:40:56 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/sales/orders/my-order?orderStatus=delivered&page=1&limit=5 204 - 0.074 ms
+Sun May 18 2025 17:40:56 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/sales/orders/my-order?orderStatus=delivered&page=1&limit=5 200 - 9.315 ms
+Sun May 18 2025 17:44:21 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/sales/orders/my-order?orderStatus=pending&page=1&limit=5 204 - 0.061 ms
+Sun May 18 2025 17:44:21 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/sales/orders/my-order?orderStatus=pending&page=1&limit=5 200 - 9.319 ms
+Sun May 18 2025 17:44:28 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/sales/orders/my-order? 204 - 0.060 ms
+Sun May 18 2025 17:44:28 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/sales/orders/my-order? 304 - 10.380 ms
+Sun May 18 2025 17:44:28 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/sales/orders/my-order?page=1&limit=5 204 - 0.069 ms
+Sun May 18 2025 17:44:28 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/sales/orders/my-order?page=1&limit=5 304 - 9.081 ms
+Sun May 18 2025 17:45:35 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/sales/orders/my-order? 204 - 0.056 ms
+Sun May 18 2025 17:45:35 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/sales/orders/my-order? 304 - 7.985 ms
+Sun May 18 2025 17:45:35 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/sales/orders/my-order?page=1&limit=1 204 - 0.048 ms
+Sun May 18 2025 17:45:35 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/sales/orders/my-order?page=1&limit=1 200 - 7.372 ms
+Sun May 18 2025 17:45:38 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/sales/orders/my-order?page=2&limit=1 204 - 0.050 ms
+Sun May 18 2025 17:45:38 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/sales/orders/my-order?page=2&limit=1 200 - 7.016 ms
+Sun May 18 2025 17:45:39 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/sales/orders/my-order?page=3&limit=1 204 - 0.050 ms
+Sun May 18 2025 17:45:39 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/sales/orders/my-order?page=3&limit=1 200 - 7.881 ms
+Sun May 18 2025 17:45:50 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/sales/orders/my-order?page=1&limit=10 204 - 0.041 ms
+Sun May 18 2025 17:45:50 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/sales/orders/my-order?page=1&limit=10 200 - 7.280 ms
+Sun May 18 2025 17:49:48 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/sales/orders/my-order? 204 - 0.063 ms
+Sun May 18 2025 17:49:48 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/sales/orders/my-order? 304 - 7.026 ms
+Sun May 18 2025 17:49:50 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/sales/orders/my-order? 304 - 9.144 ms
+Sun May 18 2025 17:49:50 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/sales/orders/my-order?page=1&limit=10 204 - 0.042 ms
+Sun May 18 2025 17:49:50 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/sales/orders/my-order?page=1&limit=10 304 - 9.309 ms
+Sun May 18 2025 17:50:51 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/sales/orders/my-order? 204 - 0.056 ms
+Sun May 18 2025 17:50:51 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/sales/orders/my-order? - - - ms
+Sun May 18 2025 17:50:52 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/sales/orders/my-order? 200 - 6.610 ms
+Sun May 18 2025 17:50:52 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/sales/orders/my-order?page=1&limit=10 204 - 0.047 ms
+Sun May 18 2025 17:50:52 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/sales/orders/my-order?page=1&limit=10 304 - 6.913 ms

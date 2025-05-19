@@ -1,0 +1,13 @@
+Sun May 18 2025 16:7:21 [SERVER-NAME] error: 10.0.60.147 - POST /api/v1/auth/login 400 - 19.144 ms
+Sun May 18 2025 16:8:37 [SERVER-NAME] error: 10.0.60.147 - POST /api/v1/users 409 - 3.455 ms
+Sun May 18 2025 16:10:7 [SERVER-NAME] error: 10.0.60.147 - GET /api/v1/retailer/dashboard 404 - 2.365 ms
+Sun May 18 2025 16:10:12 [SERVER-NAME] error: 10.0.60.147 - GET /api/v1/retailer/dashboard 404 - 1.710 ms
+Sun May 18 2025 16:13:32 [SERVER-NAME] error: 10.0.60.147 - GET /api/v1/retailer/dashboard/get-products 403 - 14.868 ms
+Sun May 18 2025 16:14:13 [SERVER-NAME] error: 10.0.60.147 - POST /api/v1/auth/login 400 - 8.059 ms
+Sun May 18 2025 16:16:56 [SERVER-NAME] error: 10.0.60.147 - GET /api/v1/retailer/dashboard 404 - 2.606 ms
+Sun May 18 2025 16:20:13 [SERVER-NAME] error: 10.0.60.126 - GET /api/v1/sales/my-my-sales 404 - 1.668 ms
+Sun May 18 2025 16:20:30 [SERVER-NAME] error: 10.0.60.126 - GET /api/v1/sales/my-sales 400 - 4.354 ms
+Sun May 18 2025 16:22:36 [SERVER-NAME] error: 10.0.60.126 - GET /api/v1/sales/my-sales?years 400 - 16.827 ms
+Sun May 18 2025 16:41:38 [SERVER-NAME] error: 10.0.60.147 - POST /api/v1/retailer/subscription 400 - 4.917 ms
+Sun May 18 2025 16:45:46 [SERVER-NAME] error: 10.0.60.147 - POST /api/v1/retailer/subscription 400 - 4.816 ms
+Sun May 18 2025 16:53:30 [SERVER-NAME] error: 10.0.60.147 - GET /api/v1/sales/orders/my-order 403 - 6.074 ms

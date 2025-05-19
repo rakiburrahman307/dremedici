@@ -1,0 +1,2 @@
+Sun May 18 2025 19:6:21 [SERVER-NAME] error: 10.0.60.147 - GET /api/v1/sales/my-sales?years=2025&years=2024 400 - 13.838 ms
+Sun May 18 2025 19:6:57 [SERVER-NAME] error: 10.0.60.147 - GET /api/v1/sales/my-sales?years=2025&years=2024 400 - 5.256 ms

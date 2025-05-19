@@ -1,0 +1,85 @@
+{
+     "keep": {
+          "days": true,
+          "amount": 1
+     },
+     "auditLog": "C:\\Users\\Rakib\\OneDrive\\Desktop\\projects\\dremedici\\winston\\error\\.f81699ecc6a5d5952ab50c8be2d4167a7c4f8039-audit.json",
+     "files": [
+          {
+               "date": 1747537254983,
+               "name": "C:\\Users\\Rakib\\OneDrive\\Desktop\\projects\\dremedici\\winston\\error\\18-05-2025-09-error.log",
+               "hash": "4289dfc32293c65f2c840aba0d1503927d53105001e76959b7e1e5521c57a6bf"
+          },
+          {
+               "date": 1747540978151,
+               "name": "C:\\Users\\Rakib\\OneDrive\\Desktop\\projects\\dremedici\\winston\\error\\18-05-2025-10-error.log",
+               "hash": "b48a26c1f5624996d9d2958405aa48eb17033aec7d68d0b3161df6547628df8d"
+          },
+          {
+               "date": 1747544696229,
+               "name": "C:\\Users\\Rakib\\OneDrive\\Desktop\\projects\\dremedici\\winston\\error\\18-05-2025-11-error.log",
+               "hash": "c94dc7be042007b687bbb7f4643e6fd2e81fb4a61a561495433e183023d9a96f"
+          },
+          {
+               "date": 1747548149005,
+               "name": "C:\\Users\\Rakib\\OneDrive\\Desktop\\projects\\dremedici\\winston\\error\\18-05-2025-12-error.log",
+               "hash": "889968ce645a4c6635588fa8ce32002104a60a393ad025fdd3c32688cfde705c"
+          },
+          {
+               "date": 1747556316460,
+               "name": "C:\\Users\\Rakib\\OneDrive\\Desktop\\projects\\dremedici\\winston\\error\\18-05-2025-14-error.log",
+               "hash": "1169b537aa13d80d751df3f803ae7b3a504710ac908c4967ad3a13bfab30dd77"
+          },
+          {
+               "date": 1747558871353,
+               "name": "C:\\Users\\Rakib\\OneDrive\\Desktop\\projects\\dremedici\\winston\\error\\18-05-2025-15-error.log",
+               "hash": "82f55d3881d8df1423b7b872720b72e965714b062e24926faa22873c93338f3e"
+          },
+          {
+               "date": 1747562841459,
+               "name": "C:\\Users\\Rakib\\OneDrive\\Desktop\\projects\\dremedici\\winston\\error\\18-05-2025-16-error.log",
+               "hash": "91ea327039210b7ee82b3a04e4ac394e8a4b65c8bbe7b22272928ef22a3e3896"
+          },
+          {
+               "date": 1747567811456,
+               "name": "C:\\Users\\Rakib\\OneDrive\\Desktop\\projects\\dremedici\\winston\\error\\18-05-2025-17-error.log",
+               "hash": "ba7f3adc497e405a6d45504857755323fffc9b5e8b1d057dafb94a00d7f22961"
+          },
+          {
+               "date": 1747572345868,
+               "name": "C:\\Users\\Rakib\\OneDrive\\Desktop\\projects\\dremedici\\winston\\error\\18-05-2025-18-error.log",
+               "hash": "1c82f6dde49f4c3f82be1abb5be67a60ec47b74f5b9d837bbbb3d3374fdddbc9"
+          },
+          {
+               "date": 1747573232199,
+               "name": "C:\\Users\\Rakib\\OneDrive\\Desktop\\projects\\dremedici\\winston\\error\\18-05-2025-19-error.log",
+               "hash": "60a4219c4d8a6a37deb0cc7534aa83ac1cc7d77fb650c4bcab3c9dfc1c70e8c7"
+          },
+          {
+               "date": 1747577502484,
+               "name": "C:\\Users\\Rakib\\OneDrive\\Desktop\\projects\\dremedici\\winston\\error\\18-05-2025-20-error.log",
+               "hash": "5c21f085ab0e2eb6978d96665f3fe758fe2627513b204398695bb93c16b35dae"
+          },
+          {
+               "date": 1747580414481,
+               "name": "C:\\Users\\Rakib\\OneDrive\\Desktop\\projects\\dremedici\\winston\\error\\18-05-2025-21-error.log",
+               "hash": "b53beb6f57e7d17f762e059c9d28552af65e9a6fd70fc0029433fa868c1ffb3b"
+          },
+          {
+               "date": 1747617936056,
+               "name": "C:\\Users\\Rakib\\OneDrive\\Desktop\\projects\\dremedici\\winston\\error\\19-05-2025-07-error.log",
+               "hash": "c0bf9cc22aa0b4e57f11cff0b2261344e6d711049c00fa7c30c772509bb321e2"
+          },
+          {
+               "date": 1747621201254,
+               "name": "C:\\Users\\Rakib\\OneDrive\\Desktop\\projects\\dremedici\\winston\\error\\19-05-2025-08-error.log",
+               "hash": "096f10d69aae5927f8aa3d3e3877f7ae09760e64c59c4dd1cea804feeed447bf"
+          },
+          {
+               "date": 1747623648549,
+               "name": "C:\\Users\\Rakib\\OneDrive\\Desktop\\projects\\dremedici\\winston\\error\\19-05-2025-09-error.log",
+               "hash": "8684263744af1b28bcf3f7f33c369baa6bdf4de774df131b5ea208bb208f0a1d"
+          }
+     ],
+     "hashType": "sha256"
+}

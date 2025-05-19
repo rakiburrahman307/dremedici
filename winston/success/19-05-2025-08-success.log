@@ -1,0 +1,68 @@
+Mon May 19 2025 8:0:48 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/retailer/loyalty? 204 - 1.089 ms
+Mon May 19 2025 8:0:48 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/retailer/loyalty? 304 - 27.546 ms
+Mon May 19 2025 8:5:16 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/retailer/subscription 204 - 0.114 ms
+Mon May 19 2025 8:5:16 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/admin/settings 204 - 0.048 ms
+Mon May 19 2025 8:5:17 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/retailer/subscription 304 - 5.997 ms
+Mon May 19 2025 8:5:17 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/admin/settings 304 - 2.744 ms
+Mon May 19 2025 8:5:47 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/retailer/subscription 204 - 0.054 ms
+Mon May 19 2025 8:5:47 [SERVER-NAME] info: 10.0.60.147 - POST /api/v1/retailer/subscription 201 - 26.095 ms
+Mon May 19 2025 8:5:47 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/retailer/subscription 200 - 4.151 ms
+Mon May 19 2025 8:5:52 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/admin/settings 204 - 0.062 ms
+Mon May 19 2025 8:5:52 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/admin/settings 304 - 4.019 ms
+Mon May 19 2025 8:5:52 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/retailer/subscription 304 - 5.559 ms
+Mon May 19 2025 8:5:53 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/retailer/loyalty? 204 - 0.137 ms
+Mon May 19 2025 8:5:53 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/retailer/loyalty? 304 - 6.527 ms
+Mon May 19 2025 8:5:59 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/retailer/loyalty? 204 - 0.064 ms
+Mon May 19 2025 8:5:59 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/retailer/loyalty? 304 - 6.337 ms
+Mon May 19 2025 8:6:9 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/retailer/loyalty? 204 - 0.052 ms
+Mon May 19 2025 8:6:9 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/retailer/loyalty? 304 - 5.723 ms
+Mon May 19 2025 8:6:47 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/retailer/subscription 204 - 0.060 ms
+Mon May 19 2025 8:6:47 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/admin/settings 204 - 0.057 ms
+Mon May 19 2025 8:6:47 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/retailer/subscription 304 - 4.554 ms
+Mon May 19 2025 8:6:47 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/admin/settings 304 - 3.834 ms
+Mon May 19 2025 8:7:21 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/retailer/subscription 204 - 0.048 ms
+Mon May 19 2025 8:7:21 [SERVER-NAME] info: 10.0.60.147 - POST /api/v1/retailer/subscription 201 - 15.546 ms
+Mon May 19 2025 8:7:21 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/retailer/subscription 200 - 3.520 ms
+Mon May 19 2025 8:7:32 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/retailer/loyalty? 204 - 0.043 ms
+Mon May 19 2025 8:7:32 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/retailer/loyalty? 200 - 5.878 ms
+Mon May 19 2025 8:20:1 [SERVER-NAME] info: [32mConfig validation successful.[39m
+Mon May 19 2025 8:20:1 [SERVER-NAME] info: [32m🚀 Database connected successfully[39m
+Mon May 19 2025 8:20:1 [SERVER-NAME] info: [33m♻️  Socket is listening on 10.0.60.126:5000[39m
+Mon May 19 2025 8:20:1 [SERVER-NAME] info: [33m♻️  Application listening on http://10.0.60.126:7001[39m
+Mon May 19 2025 8:20:5 [SERVER-NAME] info: [32mConfig validation successful.[39m
+Mon May 19 2025 8:20:5 [SERVER-NAME] info: [32m🚀 Database connected successfully[39m
+Mon May 19 2025 8:20:5 [SERVER-NAME] info: [33m♻️  Socket is listening on 10.0.60.126:5000[39m
+Mon May 19 2025 8:20:5 [SERVER-NAME] info: [33m♻️  Application listening on http://10.0.60.126:7001[39m
+Mon May 19 2025 8:20:10 [SERVER-NAME] info: [32mConfig validation successful.[39m
+Mon May 19 2025 8:20:10 [SERVER-NAME] info: [32m🚀 Database connected successfully[39m
+Mon May 19 2025 8:20:10 [SERVER-NAME] info: [33m♻️  Socket is listening on 10.0.60.126:5000[39m
+Mon May 19 2025 8:20:10 [SERVER-NAME] info: [33m♻️  Application listening on http://10.0.60.126:7001[39m
+Mon May 19 2025 8:30:18 [SERVER-NAME] info: 10.0.60.147 - POST /api/v1/auth/login 200 - 245.304 ms
+Mon May 19 2025 8:30:23 [SERVER-NAME] info: 10.0.60.147 - POST /api/v1/retailer/loyalty/reward/create 201 - 18.723 ms
+Mon May 19 2025 8:30:30 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/retailer/loyalty? 204 - 0.379 ms
+Mon May 19 2025 8:30:30 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/retailer/loyalty? 200 - 16.617 ms
+Mon May 19 2025 8:33:43 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/admin/subscription 204 - 0.118 ms
+Mon May 19 2025 8:33:43 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/admin/subscription 304 - 9.396 ms
+Mon May 19 2025 8:53:32 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/retailer/loyalty? 204 - 0.084 ms
+Mon May 19 2025 8:54:49 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/auth/login 204 - 0.150 ms
+Mon May 19 2025 8:54:50 [SERVER-NAME] info: 10.0.60.147 - POST /api/v1/auth/login 200 - 250.572 ms
+Mon May 19 2025 8:54:50 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/admin/dashboard/orders? 204 - 0.074 ms
+Mon May 19 2025 8:54:50 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/admin/dashboard/top-sales 204 - 0.091 ms
+Mon May 19 2025 8:54:50 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/admin/dashboard/revenue 204 - 0.093 ms
+Mon May 19 2025 8:54:50 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/admin/dashboard/analysis 204 - 0.076 ms
+Mon May 19 2025 8:54:50 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/admin/dashboard/orders?page=1&limit=7 204 - 0.666 ms
+Mon May 19 2025 8:54:50 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/admin/dashboard/revenue 304 - 48.837 ms
+Mon May 19 2025 8:54:50 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/admin/dashboard/top-sales 304 - 56.814 ms
+Mon May 19 2025 8:54:50 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/admin/dashboard/orders? 304 - 67.022 ms
+Mon May 19 2025 8:54:50 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/admin/dashboard/analysis 304 - 61.459 ms
+Mon May 19 2025 8:54:50 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/admin/dashboard/orders?page=1&limit=7 304 - 30.134 ms
+Mon May 19 2025 8:54:54 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/retailer/loyalty? 204 - 0.069 ms
+Mon May 19 2025 8:57:0 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/admin/retailer/loyalty/get 200 - 8.695 ms
+Mon May 19 2025 8:57:24 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/retailer/loyalty/reward 201 - 7.644 ms
+Mon May 19 2025 8:58:26 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/retailer/loyalty? 204 - 0.081 ms
+Mon May 19 2025 8:58:30 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/retailer/loyalty/reward? 204 - 0.050 ms
+Mon May 19 2025 8:58:30 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/retailer/loyalty/reward? 201 - 6.678 ms
+Mon May 19 2025 8:59:19 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/retailer/loyalty/reward? 204 - 0.074 ms
+Mon May 19 2025 8:59:19 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/retailer/loyalty/reward? 201 - 9.036 ms
+Mon May 19 2025 8:59:53 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/retailer/loyalty/reward? 204 - 0.064 ms
+Mon May 19 2025 8:59:53 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/retailer/loyalty/reward? 201 - 5.342 ms

@@ -1,0 +1,12 @@
+Sun May 18 2025 12:31:0 [SERVER-NAME] error: 10.0.60.147 - GET /api/v1/privacy/get-privacy 404 - 1.246 ms
+Sun May 18 2025 12:31:1 [SERVER-NAME] error: 10.0.60.147 - GET /api/v1/terms-and-condition/get-terms-and-condition 404 - 0.624 ms
+Sun May 18 2025 12:31:7 [SERVER-NAME] error: 10.0.60.147 - GET /api/v1/terms-and-condition/get-terms-and-condition 404 - 0.433 ms
+Sun May 18 2025 12:31:15 [SERVER-NAME] error: 10.0.60.147 - GET /api/v1/privacy/get-privacy 404 - 0.468 ms
+Sun May 18 2025 12:33:11 [SERVER-NAME] error: 10.0.60.147 - GET /api/v1/privacy/get-privacy 404 - 0.551 ms
+Sun May 18 2025 12:33:15 [SERVER-NAME] error: 10.0.60.147 - GET /api/v1/privacy/get-privacy 404 - 0.465 ms
+Sun May 18 2025 12:33:30 [SERVER-NAME] error: 10.0.60.147 - GET /api/v1/privacy/get-privacy 404 - 0.412 ms
+Sun May 18 2025 12:38:18 [SERVER-NAME] error: 10.0.60.147 - GET /api/v1/terms-and-condition/get-terms-and-condition 404 - 0.498 ms
+Sun May 18 2025 12:38:24 [SERVER-NAME] error: 10.0.60.147 - GET /api/v1/terms-and-condition/get-terms-and-condition 404 - 0.653 ms
+Sun May 18 2025 12:49:16 [SERVER-NAME] error: 10.0.60.147 - GET /api/v1/sales/dashboard/my-retailer/details/order/undefined 400 - 14.789 ms
+Sun May 18 2025 12:49:55 [SERVER-NAME] error: 10.0.60.147 - GET /api/v1/sales/dashboard/my-retailer/details/order/undefined 400 - 7.720 ms
+Sun May 18 2025 12:52:0 [SERVER-NAME] error: 10.0.60.147 - GET /api/v1/admin/retailer/managment/undefined 400 - 6.780 ms

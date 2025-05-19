@@ -1,0 +1,2 @@
+Sun May 18 2025 18:48:9 [SERVER-NAME] error: 10.0.60.126 - GET /api/v1/retailer/loyalty 403 - 15.063 ms
+Sun May 18 2025 18:51:26 [SERVER-NAME] error: 10.0.60.147 - GET /api/v1/sales/my-sales? 400 - 5.187 ms

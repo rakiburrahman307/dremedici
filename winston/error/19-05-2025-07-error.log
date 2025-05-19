@@ -1,0 +1,10 @@
+Mon May 19 2025 7:25:36 [SERVER-NAME] error: 10.0.60.147 - GET /api/v1/admin/retailer/managment/undefined 400 - 4.144 ms
+Mon May 19 2025 7:29:53 [SERVER-NAME] error: 10.0.60.147 - GET /api/v1/retailer/loyalty 403 - 3.557 ms
+Mon May 19 2025 7:31:11 [SERVER-NAME] error: 10.0.60.147 - GET /api/v1/retailer/loyalty/reward 403 - 12.580 ms
+Mon May 19 2025 7:35:36 [SERVER-NAME] error: 10.0.60.126 - GET /api/v1/retailer/loyalty/reward/get 404 - 2.748 ms
+Mon May 19 2025 7:35:46 [SERVER-NAME] error: 10.0.60.126 - GET /api/v1/retailer/loyalty/get 404 - 1.175 ms
+Mon May 19 2025 7:36:55 [SERVER-NAME] error: 10.0.60.126 - GET /api/v1/admin/retailer/loyalty/get 404 - 0.662 ms
+Mon May 19 2025 7:37:18 [SERVER-NAME] error: 10.0.60.126 - GET /api/v1/admin/retailer/loyalty/get 403 - 15.187 ms
+Mon May 19 2025 7:38:12 [SERVER-NAME] error: 10.0.60.147 - GET /api/v1/retailer/loyalty? 403 - 4.105 ms
+Mon May 19 2025 7:38:15 [SERVER-NAME] error: 10.0.60.147 - GET /api/v1/retailer/loyalty? 403 - 3.727 ms
+Mon May 19 2025 7:38:19 [SERVER-NAME] error: 10.0.60.147 - GET /api/v1/retailer/loyalty? 403 - 2.947 ms

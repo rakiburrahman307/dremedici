@@ -1,0 +1,85 @@
+{
+     "keep": {
+          "days": true,
+          "amount": 1
+     },
+     "auditLog": "C:\\Users\\Rakib\\OneDrive\\Desktop\\projects\\dremedici\\winston\\success\\.001066530e956ee8be4980f93a31073b40402727-audit.json",
+     "files": [
+          {
+               "date": 1747537254934,
+               "name": "C:\\Users\\Rakib\\OneDrive\\Desktop\\projects\\dremedici\\winston\\success\\18-05-2025-09-success.log",
+               "hash": "df6e803879277f6a3091381c2dc03b0e0470dc95c289fd1f2053dbdd535b600f"
+          },
+          {
+               "date": 1747540978141,
+               "name": "C:\\Users\\Rakib\\OneDrive\\Desktop\\projects\\dremedici\\winston\\success\\18-05-2025-10-success.log",
+               "hash": "b86c0045809389cf1969ca285348e7a5236b92949f08527ae2b7e4958b55127e"
+          },
+          {
+               "date": 1747544712419,
+               "name": "C:\\Users\\Rakib\\OneDrive\\Desktop\\projects\\dremedici\\winston\\success\\18-05-2025-11-success.log",
+               "hash": "2c832e731c3d0f35c3a9493ab2abba9915028d0aa97b1bcad2206ecda14d1239"
+          },
+          {
+               "date": 1747548004169,
+               "name": "C:\\Users\\Rakib\\OneDrive\\Desktop\\projects\\dremedici\\winston\\success\\18-05-2025-12-success.log",
+               "hash": "f80b5780f45ae0737cd699f8480a3ccde7ad4ac12646a8f5b670de0c89efcda3"
+          },
+          {
+               "date": 1747556284809,
+               "name": "C:\\Users\\Rakib\\OneDrive\\Desktop\\projects\\dremedici\\winston\\success\\18-05-2025-14-success.log",
+               "hash": "f601716970d3ca49571fe8833d01ef125e529c6a7ac81ee1bf318e6463a803b7"
+          },
+          {
+               "date": 1747558879260,
+               "name": "C:\\Users\\Rakib\\OneDrive\\Desktop\\projects\\dremedici\\winston\\success\\18-05-2025-15-success.log",
+               "hash": "3d76abb4057d918eae8b8addb0c98e88d00f20e30d299f290273056d4cc31d1f"
+          },
+          {
+               "date": 1747562767002,
+               "name": "C:\\Users\\Rakib\\OneDrive\\Desktop\\projects\\dremedici\\winston\\success\\18-05-2025-16-success.log",
+               "hash": "fffdfef84ec0a5ac8e41899ab08b90dcf4b3b3de76977d3ca03dee496fdba70a"
+          },
+          {
+               "date": 1747566287736,
+               "name": "C:\\Users\\Rakib\\OneDrive\\Desktop\\projects\\dremedici\\winston\\success\\18-05-2025-17-success.log",
+               "hash": "04383013c9a1487869cf2ffbd3366b3700216559087c3af340c82fa0b7f1ee76"
+          },
+          {
+               "date": 1747569605435,
+               "name": "C:\\Users\\Rakib\\OneDrive\\Desktop\\projects\\dremedici\\winston\\success\\18-05-2025-18-success.log",
+               "hash": "0599751fedd39318ca1cd71b4c7ed2bf05d6b1fe5b5a899a45cec7b5a70dc6f3"
+          },
+          {
+               "date": 1747573232195,
+               "name": "C:\\Users\\Rakib\\OneDrive\\Desktop\\projects\\dremedici\\winston\\success\\18-05-2025-19-success.log",
+               "hash": "4210a6e0ce761bf5c6e98a999033caa6c8804811153afac62bfeedd79feb192c"
+          },
+          {
+               "date": 1747576955257,
+               "name": "C:\\Users\\Rakib\\OneDrive\\Desktop\\projects\\dremedici\\winston\\success\\18-05-2025-20-success.log",
+               "hash": "2829a1086fd24c55ae8dc031ffba5c69c042bdbfce83cff7786db46eff4123ae"
+          },
+          {
+               "date": 1747580411381,
+               "name": "C:\\Users\\Rakib\\OneDrive\\Desktop\\projects\\dremedici\\winston\\success\\18-05-2025-21-success.log",
+               "hash": "850902933d1fc11767c305df475267b3044151a50ecc4856156f50e0ec06189c"
+          },
+          {
+               "date": 1747617805504,
+               "name": "C:\\Users\\Rakib\\OneDrive\\Desktop\\projects\\dremedici\\winston\\success\\19-05-2025-07-success.log",
+               "hash": "44b27d8a4d3a40e314e5f33f85116041fcdbfdc56cc9afafdb9bf9a0433f1daf"
+          },
+          {
+               "date": 1747620048850,
+               "name": "C:\\Users\\Rakib\\OneDrive\\Desktop\\projects\\dremedici\\winston\\success\\19-05-2025-08-success.log",
+               "hash": "c1f51d8927425d05fb9736117226e4bae4e8c982eb4d3ad1e7faddfc76c49502"
+          },
+          {
+               "date": 1747623636568,
+               "name": "C:\\Users\\Rakib\\OneDrive\\Desktop\\projects\\dremedici\\winston\\success\\19-05-2025-09-success.log",
+               "hash": "17e38e7af40e3dca06690a899832a68ec53588c02f614407424b712795e3e928"
+          }
+     ],
+     "hashType": "sha256"
+}

@@ -1,0 +1,129 @@
+Sun May 18 2025 18:0:5 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/sales/orders/my-order?orderStatus=pending&page=1&limit=10 204 - 0.067 ms
+Sun May 18 2025 18:0:5 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/sales/orders/my-order?orderStatus=pending&page=1&limit=10 200 - 14.775 ms
+Sun May 18 2025 18:0:28 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/sales/orders/my-order?searchTerm=j&page=1&limit=10 204 - 0.077 ms
+Sun May 18 2025 18:0:28 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/sales/orders/my-order?searchTerm=j&page=1&limit=10 200 - 9.723 ms
+Sun May 18 2025 18:0:38 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/sales/orders/my-order?searchTerm=order-24c0cb73%09&page=1&limit=10 204 - 0.065 ms
+Sun May 18 2025 18:0:38 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/sales/orders/my-order?searchTerm=order-24c0cb73%09&page=1&limit=10 200 - 8.485 ms
+Sun May 18 2025 18:0:40 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/sales/orders/my-order?searchTerm=order-24c0cb73&page=1&limit=10 204 - 0.080 ms
+Sun May 18 2025 18:0:40 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/sales/orders/my-order?searchTerm=order-24c0cb73&page=1&limit=10 200 - 11.751 ms
+Sun May 18 2025 18:5:45 [SERVER-NAME] info: 10.0.60.126 - GET /api/v1/sales/my-sales?years=2025,2026,2027 200 - 10.338 ms
+Sun May 18 2025 18:9:51 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/sales/orders/my-order/6829a056b63272c13d8ccdd2 200 - 7.818 ms
+Sun May 18 2025 18:10:27 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/sales/commission 204 - 0.054 ms
+Sun May 18 2025 18:10:27 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/sales/commission/order?page=1&limit=10 204 - 0.082 ms
+Sun May 18 2025 18:10:27 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/sales/commission 304 - 9.062 ms
+Sun May 18 2025 18:10:27 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/sales/commission/order?page=1&limit=10 304 - 17.519 ms
+Sun May 18 2025 18:10:29 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/sales/dashboard/my-retailers 204 - 0.129 ms
+Sun May 18 2025 18:10:29 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/sales/dashboard/my-retailers 304 - 11.541 ms
+Sun May 18 2025 18:10:32 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/sales/orders/my-order? 204 - 0.066 ms
+Sun May 18 2025 18:10:32 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/sales/orders/my-order? 304 - 10.741 ms
+Sun May 18 2025 18:12:54 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/sales/orders/my-order? 204 - 0.055 ms
+Sun May 18 2025 18:12:54 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/sales/orders/my-order? 304 - 9.877 ms
+Sun May 18 2025 18:15:59 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/sales/orders/my-order? 204 - 0.050 ms
+Sun May 18 2025 18:15:59 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/sales/orders/my-order? 304 - 7.554 ms
+Sun May 18 2025 18:28:50 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/sales/orders/my-order? 204 - 0.207 ms
+Sun May 18 2025 18:28:50 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/sales/orders/my-order? 304 - 18.426 ms
+Sun May 18 2025 18:28:50 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/sales/orders/my-order?page=1&limit=10 204 - 0.066 ms
+Sun May 18 2025 18:28:50 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/sales/orders/my-order?page=1&limit=10 304 - 11.485 ms
+Sun May 18 2025 18:33:32 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/sales/orders/my-order? 204 - 0.053 ms
+Sun May 18 2025 18:33:32 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/sales/orders/my-order? 304 - 8.338 ms
+Sun May 18 2025 18:34:58 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/sales/my-sales?years=2025,2026,2027 200 - 5.060 ms
+Sun May 18 2025 18:38:40 [SERVER-NAME] info: 10.0.60.147 - GET /api/v1/sales/my-sales?years=2025,2026 200 - 4.681 ms
+Sun May 18 2025 18:45:46 [SERVER-NAME] info: [32mConfig validation successful.[39m
+Sun May 18 2025 18:45:46 [SERVER-NAME] info: [32m🚀 Database connected successfully[39m
+Sun May 18 2025 18:45:46 [SERVER-NAME] info: [33m♻️  Socket is listening on 10.0.60.126:5000[39m
+Sun May 18 2025 18:45:46 [SERVER-NAME] info: [33m♻️  Application listening on http://10.0.60.126:7001[39m
+Sun May 18 2025 18:45:50 [SERVER-NAME] info: [32mConfig validation successful.[39m
+Sun May 18 2025 18:45:50 [SERVER-NAME] info: [32m🚀 Database connected successfully[39m
+Sun May 18 2025 18:45:50 [SERVER-NAME] info: [33m♻️  Socket is listening on 10.0.60.126:5000[39m
+Sun May 18 2025 18:45:50 [SERVER-NAME] info: [33m♻️  Application listening on http://10.0.60.126:7001[39m
+Sun May 18 2025 18:45:54 [SERVER-NAME] info: [32mConfig validation successful.[39m
+Sun May 18 2025 18:45:54 [SERVER-NAME] info: [32m🚀 Database connected successfully[39m
+Sun May 18 2025 18:45:54 [SERVER-NAME] info: [33m♻️  Socket is listening on 10.0.60.126:5000[39m
+Sun May 18 2025 18:45:54 [SERVER-NAME] info: [33m♻️  Application listening on http://10.0.60.126:7001[39m
+Sun May 18 2025 18:46:0 [SERVER-NAME] info: [32mConfig validation successful.[39m
+Sun May 18 2025 18:46:0 [SERVER-NAME] info: [32m🚀 Database connected successfully[39m
+Sun May 18 2025 18:46:0 [SERVER-NAME] info: [33m♻️  Socket is listening on 10.0.60.126:5000[39m
+Sun May 18 2025 18:46:0 [SERVER-NAME] info: [33m♻️  Application listening on http://10.0.60.126:7001[39m
+Sun May 18 2025 18:46:16 [SERVER-NAME] info: [32mConfig validation successful.[39m
+Sun May 18 2025 18:46:16 [SERVER-NAME] info: [32m🚀 Database connected successfully[39m
+Sun May 18 2025 18:46:16 [SERVER-NAME] info: [33m♻️  Socket is listening on 10.0.60.126:5000[39m
+Sun May 18 2025 18:46:16 [SERVER-NAME] info: [33m♻️  Application listening on http://10.0.60.126:7001[39m
+Sun May 18 2025 18:46:21 [SERVER-NAME] info: [32mConfig validation successful.[39m
+Sun May 18 2025 18:46:21 [SERVER-NAME] info: [32m🚀 Database connected successfully[39m
+Sun May 18 2025 18:46:21 [SERVER-NAME] info: [33m♻️  Socket is listening on 10.0.60.126:5000[39m
+Sun May 18 2025 18:46:21 [SERVER-NAME] info: [33m♻️  Application listening on http://10.0.60.126:7001[39m
+Sun May 18 2025 18:47:57 [SERVER-NAME] info: [32mConfig validation successful.[39m
+Sun May 18 2025 18:47:57 [SERVER-NAME] info: [32m🚀 Database connected successfully[39m
+Sun May 18 2025 18:47:57 [SERVER-NAME] info: [33m♻️  Socket is listening on 10.0.60.126:5000[39m
+Sun May 18 2025 18:47:57 [SERVER-NAME] info: [33m♻️  Application listening on http://10.0.60.126:7001[39m
+Sun May 18 2025 18:48:2 [SERVER-NAME] info: [32mConfig validation successful.[39m
+Sun May 18 2025 18:48:2 [SERVER-NAME] info: [32m🚀 Database connected successfully[39m
+Sun May 18 2025 18:48:2 [SERVER-NAME] info: [33m♻️  Socket is listening on 10.0.60.126:5000[39m
+Sun May 18 2025 18:48:2 [SERVER-NAME] info: [33m♻️  Application listening on http://10.0.60.126:7001[39m
+Sun May 18 2025 18:48:39 [SERVER-NAME] info: 10.0.60.126 - POST /api/v1/auth/login 200 - 344.953 ms
+Sun May 18 2025 18:48:42 [SERVER-NAME] info: 10.0.60.126 - GET /api/v1/retailer/loyalty 200 - 14.854 ms
+Sun May 18 2025 18:51:26 [SERVER-NAME] info: 10.0.60.147 - OPTIONS /api/v1/sales/my-sales? 204 - 0.292 ms
+Sun May 18 2025 18:53:8 [SERVER-NAME] info: [32mConfig validation successful.[39m
+Sun May 18 2025 18:53:8 [SERVER-NAME] info: [32m🚀 Database connected successfully[39m
+Sun May 18 2025 18:53:8 [SERVER-NAME] info: [33m♻️  Socket is listening on 10.0.60.126:5000[39m
+Sun May 18 2025 18:53:8 [SERVER-NAME] info: [33m♻️  Application listening on http://10.0.60.126:7001[39m
+Sun May 18 2025 18:53:11 [SERVER-NAME] info: [32mConfig validation successful.[39m
+Sun May 18 2025 18:53:11 [SERVER-NAME] info: [32m🚀 Database connected successfully[39m
+Sun May 18 2025 18:53:11 [SERVER-NAME] info: [33m♻️  Socket is listening on 10.0.60.126:5000[39m
+Sun May 18 2025 18:53:11 [SERVER-NAME] info: [33m♻️  Application listening on http://10.0.60.126:7001[39m
+Sun May 18 2025 18:53:15 [SERVER-NAME] info: [32mConfig validation successful.[39m
+Sun May 18 2025 18:53:15 [SERVER-NAME] info: [32m🚀 Database connected successfully[39m
+Sun May 18 2025 18:53:15 [SERVER-NAME] info: [33m♻️  Socket is listening on 10.0.60.126:5000[39m
+Sun May 18 2025 18:53:15 [SERVER-NAME] info: [33m♻️  Application listening on http://10.0.60.126:7001[39m
+Sun May 18 2025 18:53:19 [SERVER-NAME] info: [32mConfig validation successful.[39m
+Sun May 18 2025 18:53:19 [SERVER-NAME] info: [32m🚀 Database connected successfully[39m
+Sun May 18 2025 18:53:19 [SERVER-NAME] info: [33m♻️  Socket is listening on 10.0.60.126:5000[39m
+Sun May 18 2025 18:53:19 [SERVER-NAME] info: [33m♻️  Application listening on http://10.0.60.126:7001[39m
+Sun May 18 2025 18:53:24 [SERVER-NAME] info: [32mConfig validation successful.[39m
+Sun May 18 2025 18:53:25 [SERVER-NAME] info: [32m🚀 Database connected successfully[39m
+Sun May 18 2025 18:53:25 [SERVER-NAME] info: [33m♻️  Socket is listening on 10.0.60.126:5000[39m
+Sun May 18 2025 18:53:25 [SERVER-NAME] info: [33m♻️  Application listening on http://10.0.60.126:7001[39m
+Sun May 18 2025 18:53:26 [SERVER-NAME] info: [32mConfig validation successful.[39m
+Sun May 18 2025 18:53:26 [SERVER-NAME] info: [32m🚀 Database connected successfully[39m
+Sun May 18 2025 18:53:26 [SERVER-NAME] info: [33m♻️  Socket is listening on 10.0.60.126:5000[39m
+Sun May 18 2025 18:53:26 [SERVER-NAME] info: [33m♻️  Application listening on http://10.0.60.126:7001[39m
+Sun May 18 2025 18:53:31 [SERVER-NAME] info: [32mConfig validation successful.[39m
+Sun May 18 2025 18:53:31 [SERVER-NAME] info: [32m🚀 Database connected successfully[39m
+Sun May 18 2025 18:53:31 [SERVER-NAME] info: [33m♻️  Socket is listening on 10.0.60.126:5000[39m
+Sun May 18 2025 18:53:31 [SERVER-NAME] info: [33m♻️  Application listening on http://10.0.60.126:7001[39m
+Sun May 18 2025 18:53:35 [SERVER-NAME] info: [32mConfig validation successful.[39m
+Sun May 18 2025 18:53:35 [SERVER-NAME] info: [32m🚀 Database connected successfully[39m
+Sun May 18 2025 18:53:35 [SERVER-NAME] info: [33m♻️  Socket is listening on 10.0.60.126:5000[39m
+Sun May 18 2025 18:53:35 [SERVER-NAME] info: [33m♻️  Application listening on http://10.0.60.126:7001[39m
+Sun May 18 2025 18:53:40 [SERVER-NAME] info: [32mConfig validation successful.[39m
+Sun May 18 2025 18:53:40 [SERVER-NAME] info: [32m🚀 Database connected successfully[39m
+Sun May 18 2025 18:53:40 [SERVER-NAME] info: [33m♻️  Socket is listening on 10.0.60.126:5000[39m
+Sun May 18 2025 18:53:40 [SERVER-NAME] info: [33m♻️  Application listening on http://10.0.60.126:7001[39m
+Sun May 18 2025 18:53:41 [SERVER-NAME] info: [32mConfig validation successful.[39m
+Sun May 18 2025 18:53:41 [SERVER-NAME] info: [32m🚀 Database connected successfully[39m
+Sun May 18 2025 18:53:41 [SERVER-NAME] info: [33m♻️  Socket is listening on 10.0.60.126:5000[39m
+Sun May 18 2025 18:53:41 [SERVER-NAME] info: [33m♻️  Application listening on http://10.0.60.126:7001[39m
+Sun May 18 2025 18:53:45 [SERVER-NAME] info: [32mConfig validation successful.[39m
+Sun May 18 2025 18:53:45 [SERVER-NAME] info: [32m🚀 Database connected successfully[39m
+Sun May 18 2025 18:53:45 [SERVER-NAME] info: [33m♻️  Socket is listening on 10.0.60.126:5000[39m
+Sun May 18 2025 18:53:45 [SERVER-NAME] info: [33m♻️  Application listening on http://10.0.60.126:7001[39m
+Sun May 18 2025 18:53:50 [SERVER-NAME] info: [32mConfig validation successful.[39m
+Sun May 18 2025 18:53:50 [SERVER-NAME] info: [32m🚀 Database connected successfully[39m
+Sun May 18 2025 18:53:50 [SERVER-NAME] info: [33m♻️  Socket is listening on 10.0.60.126:5000[39m
+Sun May 18 2025 18:53:50 [SERVER-NAME] info: [33m♻️  Application listening on http://10.0.60.126:7001[39m
+Sun May 18 2025 18:53:52 [SERVER-NAME] info: [32mConfig validation successful.[39m
+Sun May 18 2025 18:53:52 [SERVER-NAME] info: [32m🚀 Database connected successfully[39m
+Sun May 18 2025 18:53:52 [SERVER-NAME] info: [33m♻️  Socket is listening on 10.0.60.126:5000[39m
+Sun May 18 2025 18:53:52 [SERVER-NAME] info: [33m♻️  Application listening on http://10.0.60.126:7001[39m
+Sun May 18 2025 18:53:55 [SERVER-NAME] info: [32mConfig validation successful.[39m
+Sun May 18 2025 18:53:55 [SERVER-NAME] info: [32m🚀 Database connected successfully[39m
+Sun May 18 2025 18:53:55 [SERVER-NAME] info: [33m♻️  Socket is listening on 10.0.60.126:5000[39m
+Sun May 18 2025 18:53:55 [SERVER-NAME] info: [33m♻️  Application listening on http://10.0.60.126:7001[39m
+Sun May 18 2025 18:54:0 [SERVER-NAME] info: [32mConfig validation successful.[39m
+Sun May 18 2025 18:54:0 [SERVER-NAME] info: [32m🚀 Database connected successfully[39m
+Sun May 18 2025 18:54:0 [SERVER-NAME] info: [33m♻️  Socket is listening on 10.0.60.126:5000[39m
+Sun May 18 2025 18:54:0 [SERVER-NAME] info: [33m♻️  Application listening on http://10.0.60.126:7001[39m
+Sun May 18 2025 18:54:2 [SERVER-NAME] info: [32mConfig validation successful.[39m
+Sun May 18 2025 18:54:2 [SERVER-NAME] info: [32m🚀 Database connected successfully[39m
+Sun May 18 2025 18:54:2 [SERVER-NAME] info: [33m♻️  Socket is listening on 10.0.60.126:5000[39m
+Sun May 18 2025 18:54:2 [SERVER-NAME] info: [33m♻️  Application listening on http://10.0.60.126:7001[39m
